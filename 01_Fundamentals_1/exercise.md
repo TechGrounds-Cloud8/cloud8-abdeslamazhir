@@ -1,4 +1,4 @@
-# [Opdracht maandag 2 mei]
+# [maandag 2 mei]
 [Give a short summary of the subject matter.]
 
 ## Key terminology
