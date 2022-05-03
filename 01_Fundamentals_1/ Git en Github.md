@@ -30,9 +30,6 @@ https://www.youtube.com/watch?v=hwP7WQkmECE
 
 https://kinsta.com/knowledgebase/what-is-github/
 
-https://www.git-tower.com/mac?utm_source=learn-website&
-utm_medium=navigation
-
 https://www.javatpoint.com/git-pull
 
 ### Overcome challanges
