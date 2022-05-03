@@ -32,4 +32,4 @@ It's the first time I've heard of such terms. With the help of Youtube videos, a
 -Made a repository, invited my teammates and gave them permissions to acces.
 See the screenshots below.
 
-
+![screenshot](https://github.com/TechGrounds-Cloud8/cloud8-abdeslamazhir/blob/e18fc89869de81fe5dfec592deb6be907e876be9/00_includes/foto1.png) 
