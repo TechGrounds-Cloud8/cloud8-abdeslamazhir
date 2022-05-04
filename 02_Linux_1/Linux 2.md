@@ -24,4 +24,8 @@ https://desktop.arcgis.com/en/arcmap/10.6/tools/supplement/pathnames-explained-a
 [Give a short description of your challanges you encountered, and how you solved them.]
 
 ### Results
-![SCHREENSHOT]()
+![SCHREENSHOT](https://github.com/TechGrounds-Cloud8/cloud8-abdeslamazhir/blob/main/00_includes/Linux2.png)
+
+![SCHREENSHOT](https://github.com/TechGrounds-Cloud8/cloud8-abdeslamazhir/blob/main/00_includes/linux22.png)
+
+![SCHREENSHOT](https://github.com/TechGrounds-Cloud8/cloud8-abdeslamazhir/blob/main/00_includes/linux222.png)
