@@ -1,4 +1,5 @@
-# Linux 1
+# Linux 1 Setting Up
+
 Creating a connection with the VM with SSH
 
 ## Key terminology
