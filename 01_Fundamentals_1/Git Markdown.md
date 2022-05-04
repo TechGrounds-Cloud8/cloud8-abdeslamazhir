@@ -58,5 +58,5 @@ When in eternal lines to time thou grow’st:
    So long lives this, and this gives life to thee.
 
 
-   [^1]By William Shakespeare
-   [title](https://poets.org/poem/shall-i-compare-thee-summers-day-sonnet-18)
+   [^1William Shakespeare]
+   [Sonnet 18](https://poets.org/poem/shall-i-compare-thee-summers-day-sonnet-18)
