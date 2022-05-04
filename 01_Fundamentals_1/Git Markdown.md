@@ -37,19 +37,19 @@ Thou art more lovely and more temperate:
 
 And summer’s lease hath all too short a date;
 
-Sometime too hot the eye of heaven shines,
+**Sometime too hot the eye of heaven shines,**
 
 And often is his gold complexion dimm'd;
 
-And every fair from fair sometime declines,
+*And every fair from fair sometime declines,*
 
 By chance or nature’s changing course untrimm'd;
 
 But thy eternal summer shall not fade,
 
-Nor lose possession of that fair thou ow’st;
+###Nor lose possession of that fair thou ow’st;###
 
-Nor shall death brag thou wander’st in his shade,
+#Nor shall death brag thou wander’st in his shade,#
 
 When in eternal lines to time thou grow’st:
 
