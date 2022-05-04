@@ -1,18 +1,28 @@
-# [Subject]
-[Give a short summary of the subject matter.]
+# [Linux 1]
+Creating a connection with the VM with SSH
 
 ## Key terminology
-[Write a list of key terminology with a short description. To prevent duplication you can reference to previous excersizes.]
+SSH - (Secure Shell or Secure Socket Shell) is a network protocol that gives users, particularly system administrators, a secure way to access a computer over an unsecured network.
+
+CLI - Command Line
+
+Public Key 
+
+VM
 
 ## Exercise
 ### Sources
-[List your sources you used for solving the exercise]
+https://phoenixnap.com/kb/ssh-to-connect-to-remote-server-linux-or-windows
+
+https://filext.com/file-extension/PEM
+
+https://www.youtube.com/watch?v=qWKK_PNHnnA&t=6s
+
 
 ### Overcome challanges
-[Give a short description of your challanges you encountered, and how you solved them.]
 
+It was difficult in the beginning to establish the connection because of issues with the public-key
 ### Results
-[Describe here the result of the exercise. An image can speak more than a thousand words, include one when this wisdom applies.]
 
 
 ![screenshot](https://github.com/TechGrounds-Cloud8/cloud8-abdeslamazhir/blob/main/00_includes/Linux1.png)
