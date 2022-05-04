@@ -47,9 +47,9 @@ By chance or nature’s changing course untrimm'd;
 
 But thy eternal summer shall not fade,
 
-###Nor lose possession of that fair thou ow’st;###
+**Nor lose possession of that fair thou ow’st;**
 
-#Nor shall death brag thou wander’st in his shade,#
+Nor shall death brag thou wander’st in his shade,
 
 When in eternal lines to time thou grow’st:
 
