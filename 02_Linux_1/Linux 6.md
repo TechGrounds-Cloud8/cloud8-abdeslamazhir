@@ -1,15 +1,28 @@
-# [Subject]
+# Processes
 [Give a short summary of the subject matter.]
 
 ## Key terminology
-[Write a list of key terminology with a short description. To prevent duplication you can reference to previous excersizes.]
+Telnet - A old network protocol, not secured
+
+Deamon - A process that runs in the background and is not active.
+
 
 ## Exercise
 ### Sources
-[List your sources you used for solving the exercise]
+https://www.javatpoint.com/linux-telnet-command
+
+https://forum.lowyat.net/topic/346775 
+
 
 ### Overcome challanges
-[Give a short description of your challanges you encountered, and how you solved them.]
+Had to learn about telnet and deamons.
 
 ### Results
-[Describe here the result of the exercise. An image can speak more than a thousand words, include one when this wisdom applies.]
+PID: 9388
+Memory : 856.0k
+
+![schreenshot](../00_includes/linux6.png)
+
+![schreenshot](../00_includes/linux66.png)
+
+![screenshot](../00_includes/linux666.png)
