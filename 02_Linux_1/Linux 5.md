@@ -1,6 +1,7 @@
 # File permissions
+Creating a file, users and groups and how to give and remove certain permissions for users for specific files.
 
-How to give and remove certain permissions for users for specific files.
+
 
 ## Key terminology
 
