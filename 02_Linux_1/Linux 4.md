@@ -1,5 +1,6 @@
-# [Subject]
-[Give a short summary of the subject matter.]
+# Users and groups
+
+How to create a new user with a password, 
 
 ## Key terminology
 [Write a list of key terminology with a short description. To prevent duplication you can reference to previous excersizes.]
@@ -19,8 +20,11 @@ https://www.cyberciti.biz/faq/howto-linux-add-user-to-group/
 [Give a short description of your challanges you encountered, and how you solved them.]
 
 ### Results
-![screenshot](https://github.com/TechGrounds-Cloud8/cloud8-abdeslamazhir/blob/main/00_includes/linux4.png)
+![screenshot](../00_includes/linux4.png)
 
-![screenshot](https://github.com/TechGrounds-Cloud8/cloud8-abdeslamazhir/blob/main/00_includes/linux44.png)
+![screenshot](../00_includes/linux44.png)
 
-![screenshot](https://github.com/TechGrounds-Cloud8/cloud8-abdeslamazhir/blob/main/00_includes/linux444.png)
+![screenshot](../00_includes/linux444.png)
+
+
+![screenshot](../00_includes/linux4444.png)

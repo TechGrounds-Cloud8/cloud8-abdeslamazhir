@@ -12,4 +12,4 @@
 [Give a short description of your challanges you encountered, and how you solved them.]
 
 ### Results
-![screenshot](https://github.com/TechGrounds-Cloud8/cloud8-abdeslamazhir/blob/main/00_includes/linux3.png)
+![screenshot](../00_includes/linux3.png)

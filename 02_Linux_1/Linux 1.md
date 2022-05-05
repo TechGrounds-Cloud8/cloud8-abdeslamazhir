@@ -26,4 +26,4 @@ It was difficult in the beginning to establish the connection because of issues 
 ### Results
 
 
-![screenshot](https://github.com/TechGrounds-Cloud8/cloud8-abdeslamazhir/blob/main/00_includes/Linux1.png)
+![screenshot](../00_includes/Linux1.png)
