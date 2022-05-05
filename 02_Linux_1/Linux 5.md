@@ -1,15 +1,41 @@
 # File permissions
-[Give a short summary of the subject matter.]
+
+How to give and remove certain permissions for users for specific files.
 
 ## Key terminology
-[Write a list of key terminology with a short description. To prevent duplication you can reference to previous excersizes.]
+
+Chmod - Change mode
+
+r - Permission to read the file
+
+w - Permission to write the file
+
+x - Permission to execute the file
+
 
 ## Exercise
 ### Sources
-[List your sources you used for solving the exercise]
+
+https://linuxize.com/post/understanding-linux-file-permissions/
+
+https://phoenixnap.com/kb/linux-file-permissions
 
 ### Overcome challanges
-[Give a short description of your challanges you encountered, and how you solved them.]
+
+Because of the last exercise, this one was not that difficult.
 
 ### Results
 
+![sreeenshot](../00_includes/linux5.png)
+
+![sreeenshot](../00_includes/linux55.png)
+
+![sreeenshot](../00_includes/linux555.png)
+
+![sreeenshot](../00_includes/linux5555.png)
+
+![sreeenshot](../00_includes/linux55555.png)
+
+![sreeenshot](../00_includes/linux555555.png)
+
+![sreeenshot](../00_includes/linux55555555.png)
