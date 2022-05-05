@@ -1,9 +1,15 @@
 # Users and groups
 
-How to create a new user with a password, 
+How to create a new user with a password and manage the permissions.
 
 ## Key terminology
-[Write a list of key terminology with a short description. To prevent duplication you can reference to previous excersizes.]
+
+Sudo - Super user do
+
+Useradd - Adding a user
+
+/etc/group - Info about the group
+
 
 ## Exercise
 ### Sources
@@ -17,7 +23,8 @@ https://www.cyberciti.biz/faq/howto-linux-add-user-to-group/
 
 
 ### Overcome challanges
-[Give a short description of your challanges you encountered, and how you solved them.]
+
+Very difficult exercise with a lot of saerching and seeking help from the group
 
 ### Results
 ![screenshot](../00_includes/linux4.png)
@@ -25,6 +32,5 @@ https://www.cyberciti.biz/faq/howto-linux-add-user-to-group/
 ![screenshot](../00_includes/linux44.png)
 
 ![screenshot](../00_includes/linux444.png)
-
 
 ![screenshot](../00_includes/linux4444.png)

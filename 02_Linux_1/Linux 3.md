@@ -1,15 +1,26 @@
-# [Subject]
-[Give a short summary of the subject matter.]
+# Working with text (CLI)
+
 
 ## Key terminology
-[Write a list of key terminology with a short description. To prevent duplication you can reference to previous excersizes.]
+
+Cat - Print the text in a file to the screen
+
+Grep - Used to search for a string of characters in a specified file.
+
+Mkdir - Make a directory
 
 ## Exercise
 ### Sources
-[List your sources you used for solving the exercise]
+https://linuxhandbook.com/echo-command/
+
+https://www.w3cschoool.com/linux-grep
+
+https://andysbrainbook.readthedocs.io/en/latest/unix/Unix_03_ReadingTextFiles.html#:~:text=Use%20the%20command%20line%20to,file%20to%20see%20its%20contents.
+
+https://phoenixnap.com/kb/rename-file-linux
 
 ### Overcome challanges
-[Give a short description of your challanges you encountered, and how you solved them.]
+I had to look every thing up, and with the help of my team i could finish up and understand this exercise.
 
 ### Results
 ![screenshot](../00_includes/linux3.png)
