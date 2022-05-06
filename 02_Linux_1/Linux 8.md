@@ -5,11 +5,15 @@
 [Write a list of key terminology with a short description. To prevent duplication you can reference to previous excersizes.]
 
 ## Exercise
-### Sources
+https://phoenixnap.com/kb/set-up-cron-job-linux
 
 
 ### Overcome challanges
-[Give a short description of your challanges you encountered, and how you solved them.]
+This one was very difficult
 
 ### Results
-[Describe here the result of the exercise. An image can speak more than a thousand words, include one when this wisdom applies.]
+![screenshot](../00_includes/linux8.png)
+
+![screenshot](../00_includes/linux81.png)
+
+![screenshot](../00_includes/linux82.png)
