@@ -39,7 +39,7 @@ https://desktop.arcgis.com/en/arcmap/10.6/tools/supplement/pathnames-explained-a
 
 ### Overcome challanges
 
-
+I had to learn about the different commands and look them al up.
 
 ### Results
 ![SCHREENSHOT](../00_includes/Linux2.png)

@@ -10,6 +10,8 @@ Useradd - Adding a user
 
 /etc/group - Info about the group
 
+/etc/passwd - A file that contains a list of all users with al the information.
+
 
 ## Exercise
 
@@ -34,7 +36,7 @@ https://www.cyberciti.biz/faq/howto-linux-add-user-to-group/
 
 ### Overcome challanges
 
-Very difficult exercise with a lot of saerching and seeking help from the group
+Very difficult exercise with a lot of saerching and seeking help from the group.
 
 ### Results
 ![screenshot](../00_includes/linux4.png)

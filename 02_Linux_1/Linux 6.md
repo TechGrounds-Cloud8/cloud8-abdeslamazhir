@@ -1,10 +1,14 @@
 # Processes
-[Give a short summary of the subject matter.]
+
+Had to install telnet and learn about it.
 
 ## Key terminology
 Telnet - A old network protocol, not secured
 
 Deamon - A process that runs in the background and is not active.
+
+PID - Process ID
+
 
 
 ## Exercise

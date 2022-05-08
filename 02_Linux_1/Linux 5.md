@@ -7,12 +7,19 @@ Creating a file, users and groups and how to give and remove certain permissions
 
 Chmod - Change mode
 
+Chgrp - Change group
+
 r - Permission to read the file
 
 w - Permission to write the file
 
 x - Permission to execute the file
 
+u - User
+
+g - Group
+
+o - Others
 
 ## Exercise
 

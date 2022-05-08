@@ -1,8 +1,13 @@
 # Cron jobs
-[Give a short summary of the subject matter.]
+
+Create a cron job
 
 ## Key terminology
-[Write a list of key terminology with a short description. To prevent duplication you can reference to previous excersizes.]
+
+crontab - A command that creates a table or list of commands, each of which is to be executed by the operating system at a specified time
+
+crontab -e - To edit cronjobs
+
 
 ## Exercise
 
@@ -19,7 +24,7 @@ https://phoenixnap.com/kb/set-up-cron-job-linux
 
 
 ### Overcome challanges
-This one was very difficult
+This one was very difficult  and evene with help of other members from other teams I could not complete the task crontab running every minute and weekly.
 
 ### Results
 ![screenshot](../00_includes/linux8.png)
