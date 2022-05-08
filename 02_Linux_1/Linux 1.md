@@ -7,11 +7,16 @@ SSH - (Secure Shell or Secure Socket Shell) is a network protocol that gives use
 
 CLI - Command Line
 
-Public Key 
+Public Key -
 
-VM
+VM - Virtual Machine
 
 ## Exercise
+
+-Make an SSH-connection to your machine. SSH requires the key file to have specific permissions, so you might need to change those. 
+
+-When the connection is successful, type whoami in the terminal. This command should show your username.
+
 ### Sources
 https://phoenixnap.com/kb/ssh-to-connect-to-remote-server-linux-or-windows
 

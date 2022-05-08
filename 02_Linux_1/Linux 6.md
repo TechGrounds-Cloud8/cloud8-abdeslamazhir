@@ -8,6 +8,16 @@ Deamon - A process that runs in the background and is not active.
 
 
 ## Exercise
+
+-Start the telnet daemon.
+
+-Find out the PID of the telnet daemon.
+
+-Find out how much memory telnetd is using.
+
+-Stop or kill the telnetd process.
+
+
 ### Sources
 https://www.javatpoint.com/linux-telnet-command
 

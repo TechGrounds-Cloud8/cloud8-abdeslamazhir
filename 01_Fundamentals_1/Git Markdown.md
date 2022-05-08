@@ -1,5 +1,6 @@
 # [Git Markdown]
 
+Had do learn about Markdown and use it.
 
 ## Key terminology
 
