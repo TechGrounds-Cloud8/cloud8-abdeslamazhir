@@ -73,3 +73,8 @@ Comparison of the two models
 
 An updated version of the TCP/IP with 5 layers
 ![screenshot](../00_includes/tcpip-original-vs-new.png)
+
+This table shows the OSI model layers and the components that operate at each layer.
+
+
+![screenshot](../00_includes/ntw2.png)
