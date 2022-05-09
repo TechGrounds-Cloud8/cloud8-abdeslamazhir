@@ -88,4 +88,5 @@ Standardization](https://www.iso.org/home.html)(ISO)
 
 [The World Wide Web Consortium](https://www.w3.org/)(W3C)
 
-
+A screen of the Wireshark running on my laptop. As you can see there some lines marked in black. In Wireshark, any packet marked in black is considered to reflect some sort of issue.
+![screenshot](../00_includes/ntw/wireshark%20.png)
