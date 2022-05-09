@@ -43,7 +43,7 @@ https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-m
 https://www.geeksforgeeks.org/tcp-ip-model/
 
 ### Overcome challanges
-None.
+None. This exersice was easy for me, it is just too look things up.
 
 ### Results
 
