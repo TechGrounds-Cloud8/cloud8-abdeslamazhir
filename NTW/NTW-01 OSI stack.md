@@ -4,11 +4,13 @@ The OSI model and the TCP/IP model and there uses.
 
 ## Key terminology
 
-The OSI Model - (Open Systems Interconnection Model) is a conceptual framework used to describe the functions of a networking system. It had 7 layers.
+The OSI Model - (Open Systems Interconnection Model) is a conceptual framework used to describe the functions of a networking system. 
 
-Application Layer - Layer closest to the end-user.To identify communication partners, determine the availability of resources and synchronize communucation.
+It has 7 layers:
 
-Presentation Layer - Trandlates data for the application layer for the network.
+Application Layer- Layer closest to the end-user.To identify communication partners, determine the availability of resources and synchronize communucation.
+
+Presentation Layer - Translates data for the application layer for the network.
 
 Session Layer - Handles the management, establishment, and termination of connections between to end-users of a network.
 
@@ -21,6 +23,16 @@ Data Link Layer - Provides the transmission protocol that contols the data flow 
 Physical Layer - Devines devices' electrical and physical aspects, for example, cables, connectors, electrical signals etc.
 
 TCP-IP model - Takes its name from two of its protocols, the Transmission Control Protocol (TCP) and the Internet Protocol (IP).
+
+It had 4 layers:
+
+Application - To allow acces to network resources. This layer interacts with the highest level of the OSI model. Functions of this layer: indentify partners, resource availability, user log on to remote host, e-mail services, offers distributed database sources.
+
+Transport - To provide reliable process to process message delivery and error delivery. This layer builds on the network layer in order to provide data transport from a process on a source system to a destination system. It determines how much data should be sent and at what rate. Functions: Divides messages into segments and numbers to make a sequence, makes sure the message is deliverd to the correct destination, message arrives without any error.
+
+Internet - To move packets from source to destination and to provide internetworking. Protocols belonging to the network layer are: Routing protocols, Multicast group management and Network-layer address assignment.
+
+Network Interface - Responsible for the transmission between two devices on the same network.
 
 ## Exercise
 
