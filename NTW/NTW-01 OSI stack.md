@@ -24,7 +24,7 @@ Physical Layer - Devines devices' electrical and physical aspects, for example, 
 
 TCP-IP model - Takes its name from two of its protocols, the Transmission Control Protocol (TCP) and the Internet Protocol (IP).
 
-It had 4 layers:
+It has 4 layers:
 
 Application - To allow acces to network resources. This layer interacts with the highest level of the OSI model. Functions of this layer: indentify partners, resource availability, user log on to remote host, e-mail services, offers distributed database sources.
 
