@@ -63,15 +63,7 @@ The OSI model is used primarily as a reference model and not used in real.
 
 The TCP/IP is a simplified implementation of the theoretical OSI model.
 
-The OSI Model is just a reference/logical model. It was designed to describe the functions of the communication system by dividing the communication procedure into smaller and simpler components. The TCP/IP model, was designed and developed by Department of Defense (DoD) in 1960s and is based on standard protocols. It stands for Transmission Control Protocol/Internet Protocol. The TCP/IP model is a concise version of the OSI model. It contains four layers, unlike seven layers in the OSI model. The layers are:
-
-Process/Application Layer
-
-Host-to-Host/Transport Layer
-
-Internet Layer
-
-Network Access/Link Layer
+The OSI Model is just a reference/logical model. It was designed to describe the functions of the communication system by dividing the communication procedure into smaller and simpler components. The TCP/IP model, was designed and developed by Department of Defense (DoD) in 1960s and is based on standard protocols. It stands for Transmission Control Protocol/Internet Protocol. The TCP/IP model is a concise version of the OSI model. It contains four layers, unlike seven layers in the OSI model.
 
 The 7 layers of the OSI model
 ![SCREENSHOT](../00_includes/Schermafbeelding%202022-05-09%20om%2010.19.47.png)
