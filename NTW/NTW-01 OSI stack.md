@@ -10,7 +10,7 @@ Application Layer - Layer closest to the end-user.To identify communication part
 
 Presentation Layer - Trandlates data for the application layer for the network.
 
-Sessiosn Layer - Handles the management, establishment, and termination of connections between to end-users of a network.
+Session Layer - Handles the management, establishment, and termination of connections between to end-users of a network.
 
 Transport Layer - Ensures complete data transfer between end-users.
 
