@@ -1,15 +1,39 @@
-# [Subject]
-[Give a short summary of the subject matter.]
+# Counting in Binary and Hex
+
+Learn about how to count in binary and hex. Binary has just two options, the 1 and 0 and the hex (hexadecimal) has 16 symbols, 0-9 and a to f.
 
 ## Key terminology
 [Write a list of key terminology with a short description. To prevent duplication you can reference to previous excersizes.]
 
 ## Exercise
+
+
+Translate from Decimal to Binary.
+
+Translate from Binary to Decimal.
+
+Translate Decimal to Hexadecimal.
+
+Translate Hexadecimal to Decimal.
+
 ### Sources
-[List your sources you used for solving the exercise]
+
+https://www.youtube.com/watch?v=R8bdSWiBsfw
+
+https://stackoverflow.com/questions/19896167/converting-base-2-to-base-16
+
+https://www.cuemath.com/numbers/decimal-to-binary/
+
+
+https://www.permadi.com/tutorial/numDecToHex/
 
 ### Overcome challanges
 [Give a short description of your challanges you encountered, and how you solved them.]
 
 ### Results
-[Describe here the result of the exercise. An image can speak more than a thousand words, include one when this wisdom applies.]
+
+![screenshot](../00_includes/ntw/bin.png)
+
+
+
+
