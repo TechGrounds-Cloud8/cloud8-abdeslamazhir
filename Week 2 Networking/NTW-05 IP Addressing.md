@@ -1,5 +1,6 @@
 # IP Addresses
-[Give a short summary of the subject matter.]
+
+What the different kinds of IP addresses are and what the solution is for the IPv4 that ran out.
 
 ## Key terminology
 
