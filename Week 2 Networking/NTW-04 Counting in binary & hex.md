@@ -10,6 +10,9 @@ Decimal - Base 10, 0 to 9.
 
 Hexadecimal -  Base 16, 0 to 9 and A to F.
 
+![screenshot](../00_includes/ntw/HEX.png)
+
+
 ## Exercise
 
 
