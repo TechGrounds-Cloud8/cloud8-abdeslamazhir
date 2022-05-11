@@ -3,7 +3,12 @@
 Learn about how to count in binary and hex. Binary has just two options, the 1 and 0 and the hex (hexadecimal) has 16 symbols, 0-9 and a to f.
 
 ## Key terminology
-[Write a list of key terminology with a short description. To prevent duplication you can reference to previous excersizes.]
+
+Binary - Base 2, 0 or 1.
+
+Decimal - Base 10, 0 to 9.
+
+Hexadecimal -  Base 16, 0 to 9 and A to F.
 
 ## Exercise
 
@@ -27,12 +32,16 @@ https://www.cuemath.com/numbers/decimal-to-binary/
 
 https://www.permadi.com/tutorial/numDecToHex/
 
+
+https://www.youtube.com/watch?v=izywvlnQfdE
+
 ### Overcome challanges
-[Give a short description of your challanges you encountered, and how you solved them.]
+
+Trying to understand the base, and to find out how to to the translations manualy without a calculator.
 
 ### Results
 
-![screenshot](../00_includes/ntw/bin.png)
+![screenshot](../00_includes/ntw/binhex.png)
 
 
 
