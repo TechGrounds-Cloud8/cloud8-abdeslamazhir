@@ -60,6 +60,8 @@ https://www.avast.com/c-ip-address-public-vs-private
 
 https://www.avast.com/c-static-vs-dynamic-ip-addresses
 
+https://www.cnet.com/tech/services-and-software/how-to-change-your-ip-address-4-easy-ways/
+
 
 ### Overcome challanges
 
@@ -69,21 +71,30 @@ Looking out al the key terms and to find out and change my own IP address.
 
 ### Find out what your public IP address is for your laptop and mobile on WiFi:
 
-As you can see ( or not) in the screenshots below the IPv4 for both the mobile phone and laptop wifi are the same. On the other hand the IPv6 addresses are different.
-
-
 ### Are the addresses the same or not? Explain why.
+
+As you can see ( or not) in the screenshots below the public IP, IPv4 for both the mobile phone and laptop via wifi are the same 77.160.23.102. On the other hand the IPv6 addresses are different.
+ 
+They are the same because via the wifi you are connected to the same public network
+
+
 
 ### Find out what your private IP address is of your laptop and mobile on WiFi.
 
-
 ### Are the addresses the same or not? Explain why.
+
+The private IP Addresses are not the same because the router gives them a different address by the DHCP so they can get connected to the public IP
+
 
 
 ### Change the private IP address of your mobile to that of your laptop. What happens then?
 
 
 ### Try changing your mobile's private IP address to an address outside your network. What happens then?
+
+
+I cannot change the IP addresses on my Macbook and Iphone.
+
 
 ![screenshot](../00_includes/ntw/ip1.png)
 
