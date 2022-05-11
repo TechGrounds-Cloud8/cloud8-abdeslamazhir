@@ -44,7 +44,7 @@ Trying to understand the base, and to find out how to to the translations manual
 
 ### Results
 
-![screenshot](../00_includes/ntw/binhex.png)
+![screenshot](../00_includes/ntw/binhexx.png)
 
 
 
