@@ -50,17 +50,7 @@ We use dynamic addresses because IPv4 doesn't provide enough static IP addresses
 
 ## Exercise
 
-Find out what your public IP address is for your laptop and mobile on WiFi.
-
-Are the addresses the same or not? Explain why.
-
-Find out what your private IP address is of your laptop and mobile on WiFi.
-
-Are the addresses the same or not? Explain why.
-
-Change the private IP address of your mobile to that of your laptop. What happens then?
-
-Try changing your mobile's private IP address to an address outside your network. What happens then?
+See results
 
 ### Sources
 
@@ -76,7 +66,25 @@ https://www.avast.com/c-static-vs-dynamic-ip-addresses
 Looking out al the key terms and to find out and change my own IP address.
 
 ### Results
-As you can see ( or not) is the the IPv4 for both the mobile phone and laptop wifi are the same. on the other hand the IPv6 addresses are different.
+
+### Find out what your public IP address is for your laptop and mobile on WiFi:
+
+As you can see ( or not) in the screenshots below the IPv4 for both the mobile phone and laptop wifi are the same. On the other hand the IPv6 addresses are different.
+
+
+### Are the addresses the same or not? Explain why.
+
+### Find out what your private IP address is of your laptop and mobile on WiFi.
+
+
+### Are the addresses the same or not? Explain why.
+
+
+### Change the private IP address of your mobile to that of your laptop. What happens then?
+
+
+### Try changing your mobile's private IP address to an address outside your network. What happens then?
+
 ![screenshot](../00_includes/ntw/ip1.png)
 
 ![screenshot](../00_includes/ntw/ip2.png)
