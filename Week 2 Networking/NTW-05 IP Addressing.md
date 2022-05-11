@@ -76,7 +76,7 @@ https://www.avast.com/c-static-vs-dynamic-ip-addresses
 Looking out al the key terms and to find out and change my own IP address.
 
 ### Results
-As you can see ( or not) is the the IPv4 for both the mobilephone and laptop wifi are the same. on the other hand the IPv6 addresses are different.
+As you can see ( or not) is the the IPv4 for both the mobile phone and laptop wifi are the same. on the other hand the IPv6 addresses are different.
 ![screenshot](../00_includes/ntw/ip1.png)
 
 ![screenshot](../00_includes/ntw/ip2.png)
