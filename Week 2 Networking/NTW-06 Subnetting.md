@@ -30,9 +30,15 @@ https://www.knowledgehut.com/tutorials/aws/aws-nat-gateway
 
 https://www.youtube.com/watch?v=SBYNeGIng6I
 
+
+https://www.subnet-calculator.com/subnet.php?net_class=C
+
 ### Overcome challanges
 
-
+Had no idea how to start drwaing the architecture. Seen many video's, listended a lott to teammates discussing the issue.
 
 ### Results
-[Describe here the result of the exercise. An image can speak more than a thousand words, include one when this wisdom applies.]
+
+![screenshot](../00_includes/ntw/net6.png)
+
+![screenshot](../00_includes/ntw/net61.png)
