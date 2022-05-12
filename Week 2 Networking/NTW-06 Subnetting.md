@@ -5,8 +5,10 @@
 
 
 ## Exercise
+
 ### Sources
-[List your sources you used for solving the exercise]
+
+https://www.cbtnuggets.com/blog/technology/networking/networking-basics-what-is-ipv4-subnetting
 
 ### Overcome challanges
 [Give a short description of your challanges you encountered, and how you solved them.]
