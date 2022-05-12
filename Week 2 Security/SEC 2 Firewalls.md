@@ -63,4 +63,4 @@ The firewall is blocking web traffic.
 ![screenshot](../00_includes/sec/f4.png)
 
 
-
+![screenshot](../00_includes/sec/f5.png)
