@@ -53,8 +53,12 @@ Apache already was installed in the Linux exercise.
 The default page is active and running.
 ![screenshot](../00_includes/sec/f2.png)
 
+
+
 The firewall is blocking web traffic.
 ![screenshot](../00_includes/sec/f3.png)
+
+
 
 ![screenshot](../00_includes/sec/f4.png)
 
