@@ -1,5 +1,6 @@
 # Subnetting
 
+Understand subnetting and create an achitecture with it.
 
 ## Key terminology
 
@@ -7,6 +8,8 @@ Subnetting - A technique that lets network administrators use the 32 bits availa
 
 
 NAT gateway - also known as Network Address Translation Gateway, is used to enable instances present in a private subnet to help connect to the internet or AWS services. In addition to this, the gateway makes sure that the internet doesn’t initiate a connection with the instances. NAT Gateway service is a fully managed service by Amazon, that doesn’t require any efforts from the administrator.
+
+LAN - Local Area Network. It's a structure for organizing and protecting network communicayions for devices running within a single router.
 
 
 ## Exercise
