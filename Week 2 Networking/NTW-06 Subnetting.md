@@ -21,6 +21,8 @@ Create a network architecture that meets the following requirements:
 - 1 public subnet with an internet gateway. This subnet must be able to place at least 5 hosts (the 5 hosts is excluding the internet gateway).
 - Post the architecture you created, including a short explanation, in the Github repository you shared with the learning coach.
 
+![screenshot](../00_includes/ntw/net6.png)
+
 ### Sources
 
 https://edu.anarcho-copy.org/TCP%20IP%20-%20Network/Networking%20For%20Dummies.pdf
@@ -42,6 +44,6 @@ Had no idea how to start drwaing the architecture. Seen many video's, listended 
 
 ### Results
 
-![screenshot](../00_includes/ntw/net6.png)
+I have chosen for the /26 CIDR notation because that gives the possibility of the range of IP addresses from 192.168.0.0 to 192.168.0.63. And in this exercise we need 52 IP addresses.
 
 ![screenshot](../00_includes/ntw/net61.png)
