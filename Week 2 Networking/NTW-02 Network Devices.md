@@ -1,6 +1,6 @@
 # Network Devices
 
-Learning about network devices.
+Learning about network devices and how to get acces to your home modem/router as an admin..
 
 ## Key terminology
 
@@ -31,7 +31,7 @@ https://www.howtogeek.com/233952/how-to-find-your-routers-ip-address-on-any-comp
 Had to find how to get acces to the modem/router.
 
 ### Results
-The names and functions of commin network equipment
+The names and functions of common network equipment
 
 Repeater - A repeater operates at the physical layer. Its job is to regenerate the signal over the same network before the signal becomes too weak or corrupted so as to extend the length to which the signal can be transmitted over the same network. An important point to be noted about repeaters is that they do not amplify the signal. When the signal becomes weak, they copy the signal bit by bit and regenerate it at the original strength. It is a 2 port device.
 
