@@ -11,8 +11,7 @@ Symmetric encryption - Also called secret key encryption, and it uses just one k
 ![screenshot](../00_includes/sec3/sec44.png)
 
  
-Asymmetric Encryption -
-To address the problem of key exchange, another type of encryption was developed. Asymmetric encryption is also called public key encryption, but it actually relies on a key pair. Two mathematically related keys, one called the public key and another called the private key, are generated to be used together. The private key is never shared; it is kept secret and is used only by its owner. The public key is made available to anyone who wants it. Because of the time and amount of computer processing power required, it is considered “mathematically unfeasible” for anyone to be able to use the public key to re-create the private key, so this form of encryption is considered very secure.
+
 
 Cipher - Any method of transforming a message to conceal its meaning. The term is also used synonymously with ciphertext or cryptogram in reference to the encrypted form of the message.
 
