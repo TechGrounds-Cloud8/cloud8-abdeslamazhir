@@ -13,7 +13,6 @@ Authentication - The process of determining whether someone or something is, in 
 
 Authorization - Authorization is a security mechanism used to determine user/client privileges or access levels related to system resources, including computer programs, files, services, data and application features. Authorization is normally preceded by authentication for user identity verification. System administrators (SA) are typically assigned permission levels covering all system and user resources.
 
-During authorization, a system verifies an authenticated user's access rules and either grants or refuses resource access.
 
 MFA - Multi-factor authentication uses a combination of the following factors: something you know, something you have, and something you are. 2FA is a subset of MFA.
 
