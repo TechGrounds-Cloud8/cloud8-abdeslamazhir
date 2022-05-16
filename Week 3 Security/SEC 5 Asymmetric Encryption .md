@@ -11,7 +11,6 @@ Public key - A public key is a large numerical value that is used to encrypt dat
 
 Private key - A private key, also known as a secret key, is a variable in cryptography that is used with an algorithm to encrypt and decrypt data. Secret keys should only be shared with the key's generator or parties authorized to decrypt the data. Private keys play an important role in symmetric cryptography, asymmetric cryptography and cryptocurrencies.
 
-
 ## Exercise
 
 - Generate a key pair.
