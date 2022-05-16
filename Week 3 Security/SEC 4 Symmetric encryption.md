@@ -8,6 +8,8 @@ Encryption - Encryption is a way of scrambling data so that only authorized part
 ![screenshot](../00_includes/sec3/sec4.png)
 
 Symmetric encryption - Also called secret key encryption, and it uses just one key, called a shared secret, for both encrypting and decrypting. This is a simple, easy-to-use method of encryption, but there is one problem with it: The key must be shared between the sender and the recipient of the data, so a secure method of key exchange must be devised. Otherwise, if a third party intercepts the key during the exchange, an unauthorized person can easily decrypt the data.
+![screenshot](../00_includes/sec3/sec44.png)
+
  
 Asymmetric Encryption -
 To address the problem of key exchange, another type of encryption was developed. Asymmetric encryption is also called public key encryption, but it actually relies on a key pair. Two mathematically related keys, one called the public key and another called the private key, are generated to be used together. The private key is never shared; it is kept secret and is used only by its owner. The public key is made available to anyone who wants it. Because of the time and amount of computer processing power required, it is considered “mathematically unfeasible” for anyone to be able to use the public key to re-create the private key, so this form of encryption is considered very secure.
@@ -32,15 +34,35 @@ https://www.cloudflare.com/learning/ssl/what-is-encryption/
 
 https://www.sciencedirect.com/topics/computer-science/symmetric-encryption
 
+https://www.techtarget.com/searchsecurity/definition/cipher
+
+https://www.beaming.co.uk/knowledge-base/techs-cryptography-use-modern-day-networking/
+
+
 
 ### Overcome challanges
 None, just looking things up.
 
 ### Results
 
-Historic ciphers
+Two expamles of historic ciphers:
 
 - Alberti’s disk
 : In 1467, architect Leon Battista Alberti described a curious device. It was a disk made up of two concentric rings: the outer ring engraved with a standard alphabet, and the inner ring, engraved with the same alphabet but written out of order. By rotating the inner ring and matching letters across the disk, a message could be enciphered, one letter at a time, in a fiendishly complex way. 
 
 -  Hieroglyphs: When no one is left who knows how to read a language, it becomes a secret code of its own. That’s exactly what happened with the hieroglyphs of ancient Egypt. These beautiful, iconic characters baffled linguists for centuries, until Napoleon’s troops discovered the Rosetta Stone, which allowed scholars to match the hieroglyphs with known Greek words, giving us the key to understanding the language and culture of one of the greatest civilizations in history.
+
+
+Two digital ciphers that are being used today:
+
+- Symmetric encryption
+
+Symmetric key cryptography (aka secret/private key cryptography) uses one key, which can be used to encrypt and decrypt data. In order to secure the data further, larger keys are used.
+
+- Hashing
+
+Hashing has a different role in cryptography. Instead of being used as a way to encrypt and decrypt (two-way cryptography) it’s used as a digital signature and uses one-way encryption, so in theory it’s extremely difficult – if not impossible – to reverse the message.
+
+
+
+![screenshot](../00_includes/sec3/sec444.png)
