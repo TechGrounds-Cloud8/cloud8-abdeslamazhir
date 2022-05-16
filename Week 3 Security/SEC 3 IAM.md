@@ -50,7 +50,7 @@ https://www.tools4ever.com/glossary/what-is-principle-of-least-privilege/
 
 ### Overcome challanges
 
-None, just had to look some things up. I am already familiar with thesome of the terms and have been using 2fa for years.
+None, just had to look some things up. I am already familiar with thesome of the terms and have been using 2fa (Google Authenticator) for years.
 
 ### Results
 
