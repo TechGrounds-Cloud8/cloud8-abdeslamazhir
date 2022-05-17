@@ -10,12 +10,13 @@ Encryption - Encryption is a way of scrambling data so that only authorized part
 Symmetric encryption - Also called secret key encryption, and it uses just one key, called a shared secret, for both encrypting and decrypting. This is a simple, easy-to-use method of encryption, but there is one problem with it: The key must be shared between the sender and the recipient of the data, so a secure method of key exchange must be devised. Otherwise, if a third party intercepts the key during the exchange, an unauthorized person can easily decrypt the data.
 ![screenshot](../00_includes/sec3/sec44.png)
 
- 
-
 
 Cipher - Any method of transforming a message to conceal its meaning. The term is also used synonymously with ciphertext or cryptogram in reference to the encrypted form of the message.
 
 Cryptography - The study of secure communications techniques that allow only the sender and intended recipient of a message to view its contents.
+
+
+Diffie-Hellman key exchange - It allows two parties who have not previously met to securely establish a key which they can use to secure their communications.
 
 ## Exercise
 
@@ -37,10 +38,12 @@ https://www.techtarget.com/searchsecurity/definition/cipher
 
 https://www.beaming.co.uk/knowledge-base/techs-cryptography-use-modern-day-networking/
 
+https://www.comparitech.com/blog/information-security/diffie-hellman-key-exchange/
+
 
 
 ### Overcome challanges
-None, just looking things up.
+Very hard to find a way to share the secret key via the public channel. But after the tip of the LC (Learning Coach) I found a way.
 
 ### Results
 
@@ -63,5 +66,14 @@ Symmetric key cryptography (aka secret/private key cryptography) uses one key, w
 Hashing has a different role in cryptography. Instead of being used as a way to encrypt and decrypt (two-way cryptography) it’s used as a digital signature and uses one-way encryption, so in theory it’s extremely difficult – if not impossible – to reverse the message.
 
 
+- Send a symmetrically encrypted message to one of your peers via the public Slack channel.
+
+This question was a tricky one. Thought a lot about it and if you send the the key via the public channel everyone can see that key then.
+
+After the tip of te LC to do the exercise of asymmetrically encryption first I used also that method for sending my key for this exercise.
+
+I think there is also a possibility via the Diffie-Hellman method. Will try that later.
+
 
 ![screenshot](../00_includes/sec3/sec444.png)
+
