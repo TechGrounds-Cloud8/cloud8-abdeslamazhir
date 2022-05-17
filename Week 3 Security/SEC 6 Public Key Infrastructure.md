@@ -60,4 +60,5 @@ The certification path of techgrounds.nl
 
 
 The list of trusted certificate roots in my system.
-![screenshot](../00_includes/sec3/SEC66666.png)
+
+![screenshot](../00_includes/sec3/sec66666.png)
