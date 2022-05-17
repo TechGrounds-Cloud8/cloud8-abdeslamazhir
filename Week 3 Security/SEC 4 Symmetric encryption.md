@@ -47,7 +47,7 @@ Very hard to find a way to share the secret key via the public channel. But afte
 
 ### Results
 
-Two expamles of historic ciphers:
+Two examples of historic ciphers:
 
 - Alberti’s disk
 : In 1467, architect Leon Battista Alberti described a curious device. It was a disk made up of two concentric rings: the outer ring engraved with a standard alphabet, and the inner ring, engraved with the same alphabet but written out of order. By rotating the inner ring and matching letters across the disk, a message could be enciphered, one letter at a time, in a fiendishly complex way. 
