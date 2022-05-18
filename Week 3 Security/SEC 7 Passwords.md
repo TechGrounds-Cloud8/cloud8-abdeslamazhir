@@ -74,9 +74,9 @@ A rainbow table is a database that is used to gain authentication by cracking th
 
 A rainbow table works by doing a cryptanalysis very quickly and effectively. Unlike bruteforce attack, which works by calculating the hash function of every string present with them, calculating their hash value and then compare it with the one in the computer, at every step. A rainbow table attack eliminates this need by already computing hashes of the large set of available strings.
 
+Using the rainbow table on https://crackstation.net  to check the two MD5 password hashes.
 
-Two MD5 password hashes.
- One is a weak password, the other is a string of 16 randomly generated characters. 
+ One is a weak password, the other is a string of 16 randomly generated characters.  
 ![screenshot](../00_includes/sec3/sec7777.png)
 
 Creating a new user with password 12345 in my VM.
