@@ -35,6 +35,8 @@ Below are two MD5 password hashes. One is a weak password, the other is a string
 
 Create a new user in Linux with the password 12345. Look up the hash in a Rainbow Table.
 
+Despite the bad password, and the fact that Linux uses common hashing algorithms, you won’t get a match in the Rainbow Table. This is because the password is salted. To understand how salting works, find a peer who has the same password in /etc/shadow, and compare hashes.
+
 
 ### Sources
 
