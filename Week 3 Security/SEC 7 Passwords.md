@@ -6,7 +6,7 @@ The passwords in a computer system are not stored directly as plain texts but ar
 
 Hashing - Hashing is the process of converting a given key into another value. A hash function is used to generate the new value according to a mathematical algorithm. The result of a hash function is known as a hash value or simply, a hash.
 
-Salting - A random value added to a password before hashing it. Salting a password before hashing means the resulting hash is different. Using Salts, it's not required to store the actual password of a user, only the salt and the resulting hash. If an attacker knows the hash, it's very hard to calculate the password.
+
 
 
 ![screenshot](../00_includes/sec3/sec7.png)
@@ -14,6 +14,8 @@ Salting - A random value added to a password before hashing it. Salting a passwo
 Collision - When two keys generate the same hash.
 
 ![screenshot](../00_includes/sec3/sec77.png)
+
+Salting - A random value added to a password before hashing it. Salting a password before hashing means the resulting hash is different. Using Salts, it's not required to store the actual password of a user, only the salt and the resulting hash. If an attacker knows the hash, it's very hard to calculate the password.
 
 Rainbow table - A database that is used to gain authentication by cracking the password hash. It is a precomputed dictionary of plaintext passwords and their corresponding hash values that can be used to find out what plaintext password produces a particular hash. Since more than one text can produce the same hash, it’s not important to know what the original password really was, as long as it produces the same hash. 
 
