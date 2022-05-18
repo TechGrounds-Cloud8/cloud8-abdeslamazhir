@@ -94,7 +94,7 @@ $6$wJqIoz9o3AYZkXNw$BursEKqeYUa56p3uyyguw8oTyncC/TQca2tWfvqHsXJ2g40sxbVXHTF8iBJI
 As you can see it starts with $6$, that means it is encrypted with the SHA-512 algorithm.
 
 
-After comparing the passwords with two pears I have come to the conclusion that they are all different. The rainbow table could not read them because the are salted in Linux.
+After comparing the passwords with two peers I have come to the conclusion that they are all different. The rainbow table could not read them because the are salted in Linux.
 ![screenshot](../00_includes/sec3/sec72.png)
 
 
