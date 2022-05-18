@@ -11,8 +11,7 @@ IPS - An intrusion prevention system (IPS) is a form of network security that wo
 
 The main difference between them is that IDS is a monitoring system, while IPS is a control system.
 
-![screenshot](../00_includes/sec3/sec8.png)
-
+![screenshot](../00_includes/sec3/Sec8.png)
 
 Malware - Malware (short for “malicious software”) is a file or code, typically delivered over a network, that infects, explores, steals or conducts virtually any behavior an attacker wants. And because malware comes in so many variants, there are numerous methods to infect computer systems. Though varied in type and capabilities, malware usually has one of the following objectives:
 
