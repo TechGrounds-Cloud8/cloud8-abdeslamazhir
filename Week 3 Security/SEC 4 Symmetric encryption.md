@@ -71,7 +71,10 @@ Symmetric key cryptography (aka secret/private key cryptography) uses one key, w
 Hashing has a different role in cryptography. Instead of being used as a way to encrypt and decrypt (two-way cryptography) it’s used as a digital signature and uses one-way encryption, so in theory it’s extremely difficult – if not impossible – to reverse the message.
 
 
-Send a symmetrically encrypted message to one of your peers via the public Slack channel.
+
+
+### Send a symmetrically encrypted message to one of your peers via the public Slack channel.
+
 
 
 
