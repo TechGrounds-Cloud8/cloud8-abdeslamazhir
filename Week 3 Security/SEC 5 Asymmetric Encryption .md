@@ -27,7 +27,7 @@ https://www.techtarget.com/searchsecurity/definition/public-key
 
 ### Overcome challanges
 
-Had to figure out how the assymetric encryption works. 
+Had to figure out how the asymetric encryption works. 
 
 ### Results
 
@@ -40,3 +40,5 @@ After creating a key pair my teammate and I shared our public key with each othe
 With the private key  we could decrypt the message.
 ![screenshot](../00_includes/sec3/sec55.png)
 
+Generating a public key in the VM with GPG
+![screenshot](../00_includes/sec3/secbonus.png)
