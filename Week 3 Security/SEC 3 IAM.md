@@ -76,10 +76,10 @@ Multi-Factor Authentication is a security system thay requires more than one lev
 
 PoLP offers additional security benefits:
 
-- Stronger security : Before implementing POLP, organizations must first analyze current access levels for each end user. This process often reveals that many — and in some cases, most — end users have too much access in the first place, and it can be reduced accordingly.
+- Stronger security : Before implementing PoLP, organizations must first analyze current access levels for each end user. This process often reveals that many — and in some cases, most — end users have too much access in the first place, and it can be reduced accordingly.
 
-- Thwarting malware : POLP can help contain malware to a single device or to a limited number of devices, which can give security teams the time they need to investigate, contain and remediate.
-- Greater stability : POLP prevents end users with relatively low-level accounts from executing changes that would affect the entire system.
-- Data classification: POLP helps organizations identify what data they have in their ecosystem, where it lives, and who has access to it.
-- Audit readiness: POLP significantly simplifies and streamlines the auditing process.
+- Thwarting malware : PoLP can help contain malware to a single device or to a limited number of devices, which can give security teams the time they need to investigate, contain and remediate.
+- Greater stability : PoLP prevents end users with relatively low-level accounts from executing changes that would affect the entire system.
+- Data classification: PoLP helps organizations identify what data they have in their ecosystem, where it lives, and who has access to it.
+- Audit readiness: PoLP significantly simplifies and streamlines the auditing process.
 ![screenshot](../00_includes/sec3/SEC333.png)
