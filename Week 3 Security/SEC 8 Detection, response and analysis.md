@@ -42,6 +42,8 @@ https://www.paloaltonetworks.com/cyberpedia/what-is-malware
 
 https://www.enterprisestorageforum.com/management/rpo-and-rto-understanding-the-differences/
 
+https://www.nucleus.be/blog/business-continuity/hoe-bepaal-je-juiste-rpo-en-rto/
+
 ### Overcome challanges
 
 None, just looking up al the terminology
