@@ -40,6 +40,8 @@ https://www.beaming.co.uk/knowledge-base/techs-cryptography-use-modern-day-netwo
 
 https://www.comparitech.com/blog/information-security/diffie-hellman-key-exchange/
 
+https://www.youtube.com/watch?v=NmM9HA2MQGI
+
 
 
 ### Overcome challanges
@@ -61,6 +63,9 @@ Two digital ciphers that are being used today:
 
 Symmetric key cryptography (aka secret/private key cryptography) uses one key, which can be used to encrypt and decrypt data. In order to secure the data further, larger keys are used.
 
+![screenshot](../00_includes/sec3/sec444.png)
+
+
 - Hashing
 
 Hashing has a different role in cryptography. Instead of being used as a way to encrypt and decrypt (two-way cryptography) it’s used as a digital signature and uses one-way encryption, so in theory it’s extremely difficult – if not impossible – to reverse the message.
@@ -68,12 +73,24 @@ Hashing has a different role in cryptography. Instead of being used as a way to 
 
 Send a symmetrically encrypted message to one of your peers via the public Slack channel.
 
-This question was a tricky one. Thought a lot about it and if you send the the key via the public channel everyone can see that key then.
-
-After the tip of te LC to do the exercise of asymmetrically encryption first I used also that method for sending my key for this exercise.
-
-I think there is also a possibility via the Diffie-Hellman method. Will try that later.
 
 
-![screenshot](../00_includes/sec3/sec444.png)
+For this exercise I used the Diffie-Hellman key exchange to share the public key with a peer on a public channel. That method is assymetric. That is a method of securely exchanging cryptographic keys over a public channel.The encrypted message is created by the AES String Encryption and Decryption and that is a symmetric encryption algorithm. 
 
+In my example I used two web pages to show how two people share their public keys with each other in public. The combination of their public keys that they share and their private keys gives the same shared secret which, just like the private keys, is not shared with anyone.
+![screenshot](../00_includes/sec3/secb.png)
+
+With the Shared secret key you can now create a encrypted message and share that message in public.
+
+The peer can decrypt the message with the Shared secret key.
+
+![screenshot](../00_includes/sec3/Schermafbeelding%202022-05-19%20om%2009.43.59.png)
+
+
+The only 3 things that are shared in the public are:
+
+-Public key of A
+
+-Public key of B
+
+-The decrypted message
