@@ -52,13 +52,19 @@ Openssl was already installed. With the following commands I created  a self-sig
 The certificate created
 ![screenshot](../00_includes/sec3/sec66.png)
 
-The certification path of ing.com
+The certification path of ing.com. You can see it is signed by Entrust.
 ![screenshot](../00_includes/sec3/sec666.png)
 
-The certification path of techgrounds.nl
+The certification path of techgrounds.nl is signed by Cloudflare.
 ![screenshot](../00_includes/sec3/SEC6666.png)
 
 
 The list of trusted certificate roots in my system.
 
 ![screenshot](../00_includes/sec3/sec66666.png)
+
+
+
+
+### Bonus points if you also find it in your VM)
+
