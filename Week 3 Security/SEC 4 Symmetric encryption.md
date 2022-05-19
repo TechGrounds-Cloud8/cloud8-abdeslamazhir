@@ -42,6 +42,8 @@ https://www.comparitech.com/blog/information-security/diffie-hellman-key-exchang
 
 https://www.youtube.com/watch?v=NmM9HA2MQGI
 
+https://cryptotools.net/dhe
+
 
 
 ### Overcome challanges
@@ -78,7 +80,7 @@ Hashing has a different role in cryptography. Instead of being used as a way to 
 
 
 
-For this exercise I used the Diffie-Hellman key exchange to share the public key with a peer on a public channel. That method is assymetric. That is a method of securely exchanging cryptographic keys over a public channel.The encrypted message is created by the AES String Encryption and Decryption and that is a symmetric encryption algorithm. 
+For this exercise I used the Diffie-Hellman key exchange to share the public key with a peer on a public channel. That is a method of securely exchanging cryptographic keys over a public channel.The encrypted message is created by the AES String Encryption and Decryption and that is a symmetric encryption algorithm. To create the keys and the message I used the website https://cryptotools.net/dhe
 
 In my example I used two web pages to show how two people share their public keys with each other in public. The combination of their public keys that they share and their private keys gives the same shared secret which, just like the private keys, is not shared with anyone.
 ![screenshot](../00_includes/sec3/secb.png)
