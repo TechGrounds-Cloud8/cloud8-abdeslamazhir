@@ -1,5 +1,7 @@
 # Cost Management + Billing
 
+Cloud computing offers your business many benefits. It allows you to set up what is essentially a virtual office to give you the flexibility of connecting to your business anywhere, any time. 
+
 A frequently mentioned advantage of the cloud is that you only pay for what you use. This concerns OPEX instead of CAPEX expenditure. The “Cost Management + Billing” tool provides insight into your expenses in Azure and allows you to manage your subscriptions.
 
 Azure provides the following principles to successfully reduce your costs:
