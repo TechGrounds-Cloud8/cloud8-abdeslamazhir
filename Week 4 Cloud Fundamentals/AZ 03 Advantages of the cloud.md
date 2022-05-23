@@ -60,3 +60,4 @@ A consumption-based model has many advantages, including:
 - There is no need to buy and manage expensive infrastructure that may not be fully utilized by users.
 The ability to pay for additional resources when needed.
 The ability to stop paying for resources that are no longer needed.
+
