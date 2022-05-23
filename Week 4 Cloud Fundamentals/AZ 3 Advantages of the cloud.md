@@ -30,7 +30,7 @@ None
 
 ### Results
 
-The 6 advantages of the cloud
+### The 6 advantages of the cloud
 
  - High Availability: Depending on the Service Level Agreement (SLA) you choose, your cloud apps can provide a continuous user experience with no noticeable downtime, even if something goes wrong.
 
