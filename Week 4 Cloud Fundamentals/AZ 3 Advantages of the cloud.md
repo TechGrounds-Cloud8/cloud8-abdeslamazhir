@@ -1,5 +1,7 @@
 # Advantages of the cloud
 
+Cloud computing offers your business many benefits. It allows you to set up what is essentially a virtual office to give you the flexibility of connecting to your business anywhere, any time.
+
 Azure lists 6 advantages of cloud computing. These are basic properties that make the cloud interesting for companies
 
 ## Key terminology
