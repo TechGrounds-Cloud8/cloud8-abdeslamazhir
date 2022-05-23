@@ -48,7 +48,7 @@ Horizontal scaling increases compute capacity by adding instances of resources, 
 
 
 
-The consumption-based model
+### The consumption-based model
 
 
 - No upfront costs.
