@@ -8,9 +8,10 @@
 
 ## Exercise
 
+Study Cost Management + Billing
 
 ### Sources
-[List your sources you used for solving the exercise]
+
 
 ### Overcome challanges
 [Give a short description of your challanges you encountered, and how you solved them.]

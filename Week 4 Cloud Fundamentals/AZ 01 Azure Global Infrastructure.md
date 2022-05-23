@@ -32,6 +32,9 @@ https://docs.microsoft.com/nl-nl/azure/availability-zones/az-overview
 
 
 https://www.parallels.com/blogs/ras/azure-subscription/
+
+https://docs.microsoft.com/nl-nl/azure/cloud-adoption-framework/migrate/azure-best-practices/multiple-regions
+
 ### Overcome challanges
 
 None
@@ -79,7 +82,6 @@ Scheduled Azure updates are deployed one at a time for paired regions to mitigat
 
 - Restrictions: Certain restrictions are imposed on the deployment of services in certain regions. For example, some regions are only available as a backup or failover target.
 
-- Sovereignty: Certain regions are assigned to specific sovereign entities. While all regions are Azure regions, these sovereign regions are completely isolated from the rest of Azure.
 
 - Costs
 
