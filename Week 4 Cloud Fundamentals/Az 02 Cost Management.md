@@ -58,7 +58,7 @@ https://docs.microsoft.com/en-us/azure/cost-management-billing/cost-management-b
 
 ### Overcome challanges
 
-Looking up al the terms.
+Looking up al the terms and how to create a alert in my Azure Cloud environment.
 
 ### Results
 
