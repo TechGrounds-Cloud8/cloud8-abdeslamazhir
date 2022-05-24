@@ -84,7 +84,7 @@ Study the Skills Measured document for Microsoft Azure Fundamentals (AZ-900_)
 
 https://docs.microsoft.com/nl-nl/
 
-https://azure.microsoft.com/en-us/services/devops/pipelines/
+https://t-guider.com/index.php/2021/04/01/core-resources-available-in-azure/
 
 https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 
