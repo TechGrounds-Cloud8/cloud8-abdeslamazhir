@@ -94,6 +94,7 @@ https://msdynamicsworld.com/story/what-should-it-leaders-know-about-azure-manage
 
 https://docs.microsoft.com/nl-nl/azure/azure-resource-manager/management/overview#:~:text=Azure%20Resource%20Manager%20is%20de,kunt%20maken%2C%20bijwerken%20en%20verwijderen
 
+https://cloud.netapp.com/blog/storage-tiers-in-azure-blob-storage-find-the-best-for-your-data
 
 ### Overcome challanges
 
