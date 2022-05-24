@@ -102,6 +102,6 @@ None, it just took a lot of time to look everything up.
 
 ### Results
 
-Core services include compute, network, storage, and database. See key terminology.
+Core services include compute, network, storage, and database. See key terminology for the services need to know more in detail.
 
 [Exam AZ-900](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY)
