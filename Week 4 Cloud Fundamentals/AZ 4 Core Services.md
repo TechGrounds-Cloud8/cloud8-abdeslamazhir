@@ -48,13 +48,16 @@ Azure Container Instances enables exposing your container groups directly to the
 
 - File Storage: Azure Files is a storage service that you can use to file directory storage in the cloud. 
 
-- Storage Tiers: Azure offers three storage tiers to store data in blob storage: Hot Access tier, Cool Access tier, and Archive tier. These tiers target data at different stages of its lifecycle and offer cost-effective storage options for different use cases.
+- Storage Tiers: Azure offers three storage tiers to store data in blob storage:               
+Hot Access tier
+Cool Access tier
+and Archive tier. These tiers target data at different stages of its lifecycle and offer cost-effective storage options for different use cases.
 
-- Hot Access Tier: This tier should be used for the data frequently accessed by applications, and that is read or written very often. The data storage costs for this tier are higher than other tiers, but access charges are lower, thus suiting the target use case.
+-      Hot Access Tier: This tier should be used for the data frequently accessed by applications, and that is read or written very often. The data storage costs for this tier are higher than other tiers, but access charges are lower, thus suiting the target use case.
 
-- Cool Access Tier: This storage tier is suitable for data that is not accessed frequently by applications and is expected to be stored for a minimum of 30 days; for example, for short term storage of backup, telemetry data, media files, etc. The cost of using the cool access tier is lower than using the hot tier, however access costs and availability are not the same. This tier also has a lower SLA (99%) when compared to hot tier (99.99%), and there is a per-GB charge for accessing the data.
+-     Cool Access Tier: This storage tier is suitable for data that is not accessed frequently by applications and is expected to be stored for a minimum of 30 days; for example, for short term storage of backup, telemetry data, media files, etc. The cost of using the cool access tier is lower than using the hot tier, however access costs and availability are not the same. This tier also has a lower SLA (99%) when compared to hot tier (99.99%), and there is a per-GB charge for accessing the data.
 
-- Archive Tier:  As the name indicates, this tier is intended to be used to store rarely accessed or archival data. Its storage rate is the cheapest on Azure, but the data retrieval charges are the highest. This tier is intended as Azure archive storage for data that is expected to be stored for a minimum of 180 days and that can tolerate a larger retrieval window. The Archive tier is useful storage for large amounts of inactive data, such as data required to be stored for compliance purpose, long-term backup, archived datasets, etc.
+-     Archive Tier:  As the name indicates, this tier is intended to be used to store rarely accessed or archival data. Its storage rate is the cheapest on Azure, but the data retrieval charges are the highest. This tier is intended as Azure archive storage for data that is expected to be stored for a minimum of 180 days and that can tolerate a larger retrieval window. The Archive tier is useful storage for large amounts of inactive data, such as data required to be stored for compliance purpose, long-term backup, archived datasets, etc.
 
 - Cosmos DB:  A fully managed NoSQL database for modern app development. Single-digit millisecond response times, and automatic and instant scalability, guarantee the speed at any scale. Azure Cosmos DB takes database administration off your hands with automated management, updates, and patching. It also handles capacity management with cost-effective serverless and automatic scaling options that respond to application needs to match capacity with demand.
 
