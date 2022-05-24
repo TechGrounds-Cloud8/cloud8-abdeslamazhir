@@ -26,6 +26,8 @@ Retrieve the data to your own computer using the Azure Storage Explorer.
 
 ### Sources
 
+https://www.youtube.com/watch?v=2m6An5CwJfA
+
 https://docs.microsoft.com/nl-nl/azure/vs-azure-tools-storage-manage-with-storage-explorer?tabs=macos
 
 https://docs.microsoft.com/nl-nl/azure/storage/common/storage-account-create?tabs=azure-portal
