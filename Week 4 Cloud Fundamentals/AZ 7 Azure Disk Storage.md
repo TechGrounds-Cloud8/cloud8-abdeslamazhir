@@ -11,17 +11,17 @@ There are 4 types of managed disks. In general you can say that more performance
 
 ## Exercise
 
-Start 2 Linux VMs. Ensure you have access to both via SSH.
+1 - Start 2 Linux VMs. Ensure you have access to both via SSH.
 
-Create an Azure Managed Disk and attach it to both VMs at the same time.
+2 - Create an Azure Managed Disk and attach it to both VMs at the same time.
 
-On your first machine, create a file and place it on the Shared Disk.
+3 - On your first machine, create a file and place it on the Shared Disk.
 
-Check on the second machine if you can read the file.
+4 - Check on the second machine if you can read the file.
 
-Take a snapshot of the disk and try to create a new Disk with it
+5 - Take a snapshot of the disk and try to create a new Disk with it
 
-Mount this new Disk and view the file.
+6 - Mount this new Disk and view the file.
 
 ### Sources
 
@@ -40,7 +40,24 @@ Verry dificult!
 
 ### Results
 
-The two VMs with the attached Azure Managed Disk to both VMs
+
+ Exercise 1&2 the two VMs with the attached Azure Managed Disk to both VMs
 ![screenshot](../00_includes/azureweek1/az7.png)
 
+---
+
+Exercise 3 on your first machine, create a file and place it on the Shared Disk.
+
+---
+
+Exercise 4 check on the second machine if you can read the file.
+
+---
+
+Exercise 5 Snapshot of the disk
+![screenshot](../00_includes/azureweek1/71.png)
+
+---
+
+Exercise 6 Mount this new Disk and view the file
 
