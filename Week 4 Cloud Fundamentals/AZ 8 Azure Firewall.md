@@ -39,6 +39,7 @@ https://docs.microsoft.com/en-us/azure/firewall/overview
 
 https://docs.microsoft.com/en-us/azure/virtual-network/network-overview
 
+https://docs.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal#create-a-default-route
 
 ### Overcome challanges
 
