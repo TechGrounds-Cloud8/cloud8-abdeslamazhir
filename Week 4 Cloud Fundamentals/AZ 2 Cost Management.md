@@ -24,7 +24,7 @@ OpEx: Operation Expense, is spending money on services or products now and being
 CapEX: Capital Expenditure is the spending of money on physical infrastructure upfront and then deducting that expense from your tax bill over time. CapEx is an upfront cost, which has a value that reduces over time and usually has no recurring cost. Deploying your own data center and Azure Reserved VM Instances are a few examples of the CapEx pricing model.
 
 
-- TCO: When evaluating your use of the Azure cloud, it is important to consider the Total Cost of Ownership (TCO). The TCO is used to calculate how much an infrastructure costs when hosted in the traditional way. With the TCO calculator you can compare the costs of a traditional infrastructure with the costs for the same infrastructure on Azure.
+TCO: When evaluating your use of the Azure cloud, it is important to consider the Total Cost of Ownership (TCO). The TCO is used to calculate how much an infrastructure costs when hosted in the traditional way. With the TCO calculator you can compare the costs of a traditional infrastructure with the costs for the same infrastructure on Azure.
 For example, you can use the TCO calculator to estimate the cost savings by migrating your workloads to Azure.
 
 ## Exercise
