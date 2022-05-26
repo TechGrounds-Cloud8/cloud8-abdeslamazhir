@@ -66,3 +66,5 @@ Blocked the SSH in the Network security group (nsg)
 
 Not working with SSH because it is blocked
 ![screenshot](../00_includes/azureweek1/az82.png)
+
+![screenshot](../00_includes/azureweek1/81.png)
