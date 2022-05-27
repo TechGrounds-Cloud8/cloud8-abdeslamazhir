@@ -62,4 +62,5 @@ Exercise 5 Snapshot of the disk
 ---
 
 Exercise 6 Mount this new Disk and view the file
+![screenshot](../00_includes/azureweek1/73.png)
 
