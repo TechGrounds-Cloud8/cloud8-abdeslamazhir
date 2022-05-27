@@ -44,6 +44,8 @@ Verry dificult!
  Exercise 1&2 the two VMs with the attached Azure Managed Disk to both VMs
 ![screenshot](../00_includes/azureweek1/az7.png)
 
+
+![screenshot](../00_includes/azureweek1/72.png)
 ---
 
 Exercise 3 on your first machine, create a file and place it on the Shared Disk.
