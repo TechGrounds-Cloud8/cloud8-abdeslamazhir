@@ -36,7 +36,15 @@ https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/co
 
 ### Overcome challanges
 
-Verry dificult!
+Verry dificult exercises. 
+
+Could not finish the folowing two exercises:
+
+Exercise 3, on your first machine, create a file and place it on the Shared Disk.
+
+Exercise 4,check on the second machine if you can read the file.
+
+The two pears had the same problem.
 
 ### Results
 
