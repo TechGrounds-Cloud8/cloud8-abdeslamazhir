@@ -10,7 +10,7 @@ De Cloud provider extra biedt extra services aan waarmee je je eigen verantwoord
 
 
 
-
+![screenshot](../00_includes/azureweek2/az91.png)
 
 
 ## Key terminology
