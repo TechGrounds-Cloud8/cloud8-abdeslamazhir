@@ -43,13 +43,13 @@ Create a Virtual Network with the following requirements:
 - Name: Lab-VNet
 - IP range: 10.0.0.0/16
 
-## Prerequisites for Subnet 1:
+Requirements for Subnet 1:
 
 - Name: Subnet-1
 - IP Range: 10.0.0.0/24
 - This subnet must not have a route to the internet
 
-## Prerequisites for Subnet 2:
+Requirements for Subnet 2:
 
 - Name: Subnet-2
 - IP Range: 10.0.1.0/24
