@@ -107,3 +107,4 @@ One Instance was removed
 
 Stress-ng tool installed on Linux and performed a stress test
 ![screenshot](../00_includes/azureweek2/az16.png)
+
