@@ -77,9 +77,13 @@ https://docs.microsoft.com/en-us/azure/load-testing/quickstart-create-and-run-lo
 
 https://wiki.ubuntu.com/Kernel/Reference/stress-ng
 
+https://www.tecmint.com/linux-cpu-load-stress-test-with-stress-ng-tool/
+
 ### Overcome challanges
 
+Difficult exercise.
 
+---
 
 ### Results
 
@@ -92,19 +96,23 @@ The servers are working
 ![screenshot](../00_includes/azureweek2/azz11.png)
 
 
-One Instance was removed
+One Instance was removed because CPU usage was lower then 30%
 ![screenshot](../00_includes/azureweek2/az14.png)
 ![screenshot](../00_includes/azureweek2/azz12.png)
 
+![screenshot](../00_includes/azureweek2/az15.png)
 
-
-
+A Testrun on the Portal
 ![screenshot](../00_includes/azureweek2/azz13.png)
 
 
 
-![screenshot](../00_includes/azureweek2/az15.png)
+
 
 Stress-ng tool installed on Linux and performed a stress test
 ![screenshot](../00_includes/azureweek2/az16.png)
 
+Activated Autoscaling by a load test on the server.
+![screenshot](../00_includes/azureweek2/az17.png)
+
+![screenshot](../00_includes/azureweek2/az18.png)
