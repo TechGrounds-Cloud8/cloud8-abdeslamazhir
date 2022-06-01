@@ -20,12 +20,12 @@ Connect to other VNets
 When you create a new VNet, you define a private IP range for your network. You can create subnets within that range.
 
 There are three ways to connect your network to an on-premises network:
-Point to Site VPNs:
-The Azure VNet is accessed with a VPN from an on-prem computer.
-Site-to-site VPNs:
-The on-prem VPN device or gateway is connected to the Azure VPN Gateway. This effectively gives you 1 large local network.
-Azure Express Route:
-This is a physical connection from your local environment to Azure.
+- Point to Site VPNs:
+  - The Azure VNet is accessed with a VPN from an on-prem computer.
+- Site-to-site VPNs:
+  - The on-prem VPN device or gateway is connected to the Azure VPN Gateway. This effectively gives you 1 large local network.
+- Azure Express Route:
+  - This is a physical connection from your local environment to Azure.
 
 You can also connect two Azure VNets using virtual network peering. This is made possible by user-defined Routing (UDR). Peering is possible with VNets in different regions.
 
