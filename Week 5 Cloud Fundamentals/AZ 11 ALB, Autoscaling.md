@@ -100,12 +100,6 @@ One Instance was removed because CPU usage was lower then 30%
 ![screenshot](../00_includes/azureweek2/az15.png)
 
 ---
-A Testrun on the Portal
-![screenshot](../00_includes/azureweek2/azz13.png)
-
-
-
----
 
 Stress-ng tool installed on Linux and performed a stress test
 ![screenshot](../00_includes/azureweek2/az16.png)
