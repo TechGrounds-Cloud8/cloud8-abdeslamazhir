@@ -78,7 +78,7 @@ https://www.tecmint.com/linux-cpu-load-stress-test-with-stress-ng-tool/
 
 ### Overcome challanges
 
-Difficult exercise.
+Difficult exercise. Hard to find the best way to test the CPU usage to activate an instance.
 
 ---
 
