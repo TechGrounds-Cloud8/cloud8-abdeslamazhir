@@ -72,9 +72,6 @@ https://spot.io/resources/azure-pricing/azure-autoscaling-a-practical-guide/
 
 https://www.youtube.com/watch?time_continue=335&v=Y_STYgRQyAE&feature=emb_logo
 
-https://docs.microsoft.com/en-us/azure/load-testing/quickstart-create-and-run-load-test
-
-
 https://wiki.ubuntu.com/Kernel/Reference/stress-ng
 
 https://www.tecmint.com/linux-cpu-load-stress-test-with-stress-ng-tool/
