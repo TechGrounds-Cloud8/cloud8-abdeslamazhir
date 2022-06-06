@@ -30,18 +30,6 @@ VMs carry around with them their own OS, the application itself, any necessary l
  Study Containers.
 
 
-### Sources
-
-https://azure.microsoft.com/nl-nl/overview/what-is-a-container/#overview
-
-
-https://docs.microsoft.com/en-us/azure/container-instances/container-instances-overview
-
-https://stackshare.io/stackups/amazon-ec2-container-service-vs-azure-container-service
-
-https://www.redhat.com/en/topics/containers/learning-kubernetes-tutorial?sc_cid=7013a000002wLw5AAE&gclid=CjwKCAjwy_aUBhACEiwA2IHHQGyKH04__579XadR3hd3TvdEFehmZFIsCq363qrw_bx6bzGHQ8QAnhoCcrQQAvD_BwE&gclsrc=aw.ds
-
-https://azure.microsoft.com/en-us/topic/kubernetes-vs-docker/
 
 ### Why Containers?
 
@@ -92,3 +80,17 @@ On the other hand, Azure Container Service provides the following key features:
 
 ACI and AKS are tow Container services from Microsoft Azure.
 While ACI can be used for containerization, Azure Kubernetes Service allows you to easily automate this process. It helps with networking, load-balancing, security, and scaling across all Kubernetes nodes which runs your containers.
+
+
+### Sources
+
+https://azure.microsoft.com/nl-nl/overview/what-is-a-container/#overview
+
+
+https://docs.microsoft.com/en-us/azure/container-instances/container-instances-overview
+
+https://stackshare.io/stackups/amazon-ec2-container-service-vs-azure-container-service
+
+https://www.redhat.com/en/topics/containers/learning-kubernetes-tutorial?sc_cid=7013a000002wLw5AAE&gclid=CjwKCAjwy_aUBhACEiwA2IHHQGyKH04__579XadR3hd3TvdEFehmZFIsCq363qrw_bx6bzGHQ8QAnhoCcrQQAvD_BwE&gclsrc=aw.ds
+
+https://azure.microsoft.com/en-us/topic/kubernetes-vs-docker/
