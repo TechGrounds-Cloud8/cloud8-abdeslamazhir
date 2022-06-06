@@ -20,7 +20,6 @@ VMs carry around with them their own OS, the application itself, any necessary l
 
 - Kubernetes: An open source container orchestration platform that automates many of the manual processes involved in deploying, managing, and scaling containerized applications.
 
-Kubernetes can help deliver and manage containerized, legacy, and cloud-native apps at scale, as well as those being refactored into microservices across environments, including private cloud and major public cloud providers like Amazon Web Services (AWS), Google Cloud, IBM Cloud, and Microsoft Azure.
 
 - Azure Kubernetes Service:  (AKS) makes it simple to manage a hosted Kubernetes environment in Azure (which can include for example Docker containers). It is best suited for scenarios where you need complete container orchestration, including service discovery across multiple containers, automatic scaling, and coordinated application upgrades. Kubernetes abstracts away complex container management and provides us with declarative configuration to orchestrate containers in different compute environments.
 
