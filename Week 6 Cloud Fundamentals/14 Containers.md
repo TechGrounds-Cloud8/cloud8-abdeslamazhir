@@ -78,7 +78,7 @@ On the other hand, Azure Container Service provides the following key features:
 - Use popular open source, client-side tooling
 
 
-ACI and AKS are tow Container services from Microsoft Azure.
+ACI and AKS are two Container services from Microsoft Azure.
 While ACI can be used for containerization, Azure Kubernetes Service allows you to easily automate this process. It helps with networking, load-balancing, security, and scaling across all Kubernetes nodes which runs your containers.
 
 
