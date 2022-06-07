@@ -22,7 +22,7 @@ Microsoft offers four support plans that can provide you with technical support:
 
 - Professional Direct: Absolutely necessary for business-critical environments, this plan also offers 24/7 technical support with one-hour response time but also includes operational support, training, and proactive guidance from a ProDirect delivery manager.
 
- ![screenshot](../00_includes/azureweek3/2022.png)
+ ![screenshot](../00_includes/azureweek3/2022.pnG)
 
 ---
 
