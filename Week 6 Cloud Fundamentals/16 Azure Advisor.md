@@ -39,7 +39,6 @@ The Advisor dashboard displays personalized recommendations for all your subscri
 
 ### Advisor Score
 
-Azure Advisor Score is a measurement of the optimization posture of the Azure resources based on Azure best practices. Following Advisor Score helps getting the most out of the Azure investment. From a dashboard in Advisor, you can monitor and work on optimizations for cost, security, reliability, performance, and operational excellence across your Azure resources.
 
 Advisor Score helps you:
 
