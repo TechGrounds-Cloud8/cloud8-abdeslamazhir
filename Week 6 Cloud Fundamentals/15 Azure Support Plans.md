@@ -41,6 +41,8 @@ My Azure Portal with the support plans
 
 ### Comparison
 
+The main difference between Azure and AWS Service Plans is that THE first tier of the AWS plan is paid, and by Azure that one is free.
+
 For a comparison between Azure and AWS Support plans see [Comparison](https://kinsta.com/nl/blog/aws-en-azure/#ondersteuning)
 
 
@@ -52,3 +54,5 @@ https://azure.microsoft.com/en-us/support/plans/
 https://k21academy.com/microsoft-azure/az-900/az-900-azure-support-options/
 
 https://kinsta.com/nl/blog/aws-en-azure/#ondersteuning
+
+https://aws.amazon.com/premiumsupport/plans/
