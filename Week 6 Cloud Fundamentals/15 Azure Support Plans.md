@@ -37,8 +37,18 @@ To see the Support plans, go to Help + support in the Portal
 
 My Azure Portal with the support plans
 ![screenshot](../00_includes/azureweek3/20222.png)
+
+
+### Comparison
+
+For a comparison between Azure and AWS Support plans see [Comparison](https://kinsta.com/nl/blog/aws-en-azure/#ondersteuning)
+
+
+
 ### Sources
 
 https://azure.microsoft.com/en-us/support/plans/
 
 https://k21academy.com/microsoft-azure/az-900/az-900-azure-support-options/
+
+https://kinsta.com/nl/blog/aws-en-azure/#ondersteuning
