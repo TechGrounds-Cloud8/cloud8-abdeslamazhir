@@ -63,9 +63,9 @@ VMs carry around with them their own OS, the application itself, any necessary l
   ### Comparison
 
 
-Amazon EC2 Container Service and Azure Container Service belong to "Containers as a Service" category of the tech stack.
+AWS ECS Container Service and Azure Container Service belong to "Containers as a Service" category of the tech stack.
 
-Some of the features offered by Amazon EC2 Container Service are:
+Some of the features offered by AWS ECS Container Service are:
 
 - Docker Compatibility
 - Managed Clusters
