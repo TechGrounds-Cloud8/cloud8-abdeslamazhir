@@ -3,8 +3,6 @@
 Every Azure subscription includes free access to billing and subscription support, Azure products and services documentation, online self-help documentation, white papers, and community support forums.
 
 
-## Key terminology
-
 
 
 ## Exercise
