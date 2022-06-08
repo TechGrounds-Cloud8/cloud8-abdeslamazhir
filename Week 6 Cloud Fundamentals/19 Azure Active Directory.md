@@ -110,7 +110,6 @@ https://www.simplilearn.com/tutorials/azure-tutorial/azure-active-directory
 
 https://www.varonis.com/blog/azure-active-directory
 
-
 https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis
 
 https://docs.microsoft.com/en-us/azure/active-directory-domain-services/concepts-resource-forest
