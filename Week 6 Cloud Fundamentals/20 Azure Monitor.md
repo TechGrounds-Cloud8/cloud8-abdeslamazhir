@@ -14,6 +14,8 @@ Azure Monitor is a powerful reporting and analytics tool. It maximizes the avail
 - Logs: Logs contain time-stamped information about changes made to resources. The type of information recorded varies by log source. The log data is organized into records, with different sets of properties for each type of record. The logs can include numeric values such as Azure Monitor metrics, but most include text data rather than numeric values.
 ![screenshot](../00_includes/azureweek3/log.png)
 
+---
+
 ### How does Azure Monitor work?
 
 Azure Monitor receives data from target resources like applications, operating systems, Azure resources, Azure subscriptions, and Azure tenants. The nature of the resource defines which data types are available. A data type will be a metric, a log, or both a metric and a log. These data can further be processed to perform different functions such as analysis, visualization, alerting, automation and integrations.
@@ -36,6 +38,11 @@ Study Azure Monitor.
 
 ### Results
 
+In the exercise [11 Azure Load Balancer (ALB) & Auto Scaling](https://github.com/TechGrounds-Cloud8/cloud8-abdeslamazhir/blob/main/Week%205%20Cloud%20Fundamentals/AZ%2011%20ALB%2C%20Autoscaling.md) I used the Azure Monitor to see the metrics of the CPU ussage of my instances.
+![screenshot](../00_includes/azureweek3/met1.png)
+
+
+---
 
 The overview of the Monitor in my Azure Portal.
 ![screenshot](../00_includes/azureweek3/201.png)
