@@ -56,14 +56,20 @@ In the Azure Portal
 ![screenshot](../00_includes/azureweek3/19.png)
 
 ---
+---
 
 ### How do I enable this service?
 
 I don't have acces rights to create a user, instead I invited a user.
 ![screenshot](../00_includes/azureweek3/191.png)
 
+---
+---
 The invite e-mail I received
 ![screenshot](../00_includes/azureweek3/193.png)
+
+---
+---
 
 The empty portal for the user I invited.
 ![screenshot](../00_includes/azureweek3/192.png)
