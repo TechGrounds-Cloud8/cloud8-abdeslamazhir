@@ -41,7 +41,6 @@ Study Azure Monitor.
 In the exercise [11 Azure Load Balancer (ALB) & Auto Scaling](https://github.com/TechGrounds-Cloud8/cloud8-abdeslamazhir/blob/main/Week%205%20Cloud%20Fundamentals/AZ%2011%20ALB%2C%20Autoscaling.md) I used the Azure Monitor to see the metrics of the CPU ussage of my instances.
 ![screenshot](../00_includes/azureweek3/met1.png)
 
-
 ---
 
 The overview of the Monitor in my Azure Portal.
