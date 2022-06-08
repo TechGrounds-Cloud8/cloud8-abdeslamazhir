@@ -23,7 +23,7 @@ The Monitor Activity Log  with my activity for the past two weeks.
 The logs can be downloaded from Download as CSV and the history can be viewed via the Change History (Preview) tab
 
 
-
+---
 
 You can also access Activity log events using the following methods:
 
@@ -36,8 +36,6 @@ You can also access Activity log events using the following methods:
 ## Exercise
 
 Study Azure Activity Log
-
-
 
 
 ### Sources
