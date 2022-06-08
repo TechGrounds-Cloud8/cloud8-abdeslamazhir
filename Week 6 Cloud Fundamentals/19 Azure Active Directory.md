@@ -23,7 +23,7 @@ This is where Azure Active Directory (AD) comes into the picture. With Azure AD,
 
 Microsoft Online business services, such as Microsoft 365 or Microsoft Azure, require Azure AD for sign-in activities and to help with identity protection. If you subscribe to any Microsoft Online business service, you automatically get Azure AD with access to all the free features.
 
-You can also add paid capabilities by upgrading to Azure Active Directory Premium P1 or Premium P2 licenses
+You can also add paid capabilities by upgrading to Azure Active Directory Premium P1 or Premium P2 licenses.
 
 
 
@@ -34,6 +34,12 @@ You can also add paid capabilities by upgrading to Azure Active Directory Premiu
 - OU: Organizational unit in active directory is a container where we can place users, computers, groups and other organization units even. OU are helps to create logical structure of the AD. We can use it to assign group policies and manage the resources.
 
 
+- LDAP: Lightweight Directory Access Protocol is an application protocol for working with various directory services sych as Active Directory.
+
+- NTLM: New Technology LAN Manager is a suite of security protocols offered by Microsoft to authenticate users’ identity and protect the integrity and confidentiality of their activity. At its core, NTLM is a single sign on (SSO) tool that relies on a challenge-response protocol to confirm the user without requiring them to submit a password.
+
+- Kerberos: A computer network security protocol that authenticates service requests between two or more trusted hosts across an untrusted network, like the internet. It uses secret-key cryptography and a trusted third party for authenticating client-server applications and verifying users' identities.
+
 
 ## Exercise
 
@@ -41,7 +47,7 @@ You can also add paid capabilities by upgrading to Azure Active Directory Premiu
 Study Azure Active Directory.
 
 
-
+---
 
 
 ### Where can I find this service in the console?
@@ -115,3 +121,9 @@ https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-dire
 https://docs.microsoft.com/en-us/azure/active-directory-domain-services/concepts-resource-forest
 
 https://www.compete366.com/blog-posts/the-difference-between-ad-and-azure-ad-explained/
+
+https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/auth-ldap
+
+https://www.crowdstrike.com/cybersecurity-101/ntlm-windows-new-technology-lan-manager/
+
+https://www.simplilearn.com/what-is-kerberos-article
