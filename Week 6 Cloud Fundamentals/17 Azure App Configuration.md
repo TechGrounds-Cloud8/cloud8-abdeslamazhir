@@ -56,6 +56,8 @@ management
  - Native integration with popular frameworks
 
 
+---
+---
 
 App Configuration complements Azure Key Vault, which is used to store application secrets. App Configuration makes it easier to implement the following scenarios:
 
