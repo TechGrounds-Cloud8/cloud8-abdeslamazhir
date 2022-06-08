@@ -48,7 +48,6 @@ Example
 ---
 ---
 
-
 ### Sources
 
 https://docs.microsoft.com/en-us/azure/azure-monitor/overview
