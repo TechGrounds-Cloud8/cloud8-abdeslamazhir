@@ -32,6 +32,7 @@ While any application can make use of App Configuration, the following examples 
 
 - Continuous deployment pipeline
 
+---
 
 Benefits of App Configuration:
 
