@@ -76,7 +76,6 @@ The empty portal for the user I invited.
 
 
 
-
 ### Comparison
 
 Azure Directory (AD) vs Azure Active Directory (Azure AD)
@@ -114,7 +113,6 @@ They do different things with the area of overlap being user management.
 
 ---
 ---
-
 
 ### Sources
 
