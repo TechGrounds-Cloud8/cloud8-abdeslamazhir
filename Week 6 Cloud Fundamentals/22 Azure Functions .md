@@ -33,8 +33,6 @@ Azure Logic App can define a workflow at ease consuming a range of APIs as conne
    - Azure Functions is a separate App Service that run in the App Service Plan
 
 
-## Key terminology
-
 
 
 ## Exercise
