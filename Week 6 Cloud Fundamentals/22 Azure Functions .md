@@ -48,6 +48,7 @@ Azure Logic App can define a workflow at ease consuming a range of APIs as conne
 
 ### Results
 
+
 ![screenshot](../00_includes/azureweek3/25.png)
 
 
