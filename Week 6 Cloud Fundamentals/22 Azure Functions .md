@@ -72,7 +72,6 @@ The Function App up and running.
 Testing the code in the Portal
 ![screenshot](../00_includes/azureweek3/29.png)
 
-
 ---
 
 The result.
