@@ -43,7 +43,6 @@ You can choose from multiple database APIs including the native Core (SQL) API, 
   - End-to-end database management, with serverless and automatic scaling matching your application and TCO needs
 
 
-
 ---
 ---
 
@@ -77,4 +76,3 @@ Adding data to the database
 https://docs.microsoft.com/en-us/azure/cosmos-db/introduction
 
 https://docs.microsoft.com/en-us/azure/cosmos-db/sql/create-cosmosdb-resources-portal
-
