@@ -44,26 +44,36 @@ Azure Logic App can define a workflow at ease consuming a range of APIs as conne
 
 
 
+Study Azure Functions
 
 
 ### Results
-
-![screenshot](../00_includes/azureweek3/25.png)
 
 
 Creating a Azure Function App
 ![screenshot](../00_includes/azureweek3/26.png)
 
+---
+
 ![screenshot](../00_includes/azureweek3/266.png)
+
+---
 
 The deployd app with te url link
 ![screenshot](../00_includes/azureweek3/27.png)
 
+---
+
 The Function App up and running.
 ![screenshot](../00_includes/azureweek3/28.png)
 
-Test the code in the Portal
+---
+
+Testing the code in the Portal
 ![screenshot](../00_includes/azureweek3/29.png)
+
+
+---
 
 The result.
 ![screenshot](../00_includes/azureweek3/30.png)
