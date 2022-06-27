@@ -9,13 +9,14 @@
 - Write the following Python code. The output in the terminal should be the text “Hello world!”
 
 
-### Sources
 
-
-
-### Overcome challanges
 
 
 
 ### Results
 
+![screenshot](../00_includes/python/71.png)
+
+Hellow world!
+![screenshot](../00_includes/python/73.png)
+### Sources
