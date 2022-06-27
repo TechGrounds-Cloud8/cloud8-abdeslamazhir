@@ -7,6 +7,8 @@
 - Install VS Code from https://code.visualstudio.com/download
 - Install the Python plug-in in VS Code.
 - Write the following Python code. The output in the terminal should be the text “Hello world!”
+![screenshot](../00_includes/python/72.png)
+
 
 
 
