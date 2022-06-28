@@ -15,7 +15,11 @@
 
 
 
-### Results
+### Result
+
+Script:
+
+          print("Hellow world!")
 
 ![screenshot](../00_includes/python/71.png)
 
