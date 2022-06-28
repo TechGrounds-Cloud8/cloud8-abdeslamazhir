@@ -61,6 +61,9 @@ Script:
 - Change the value of that same variable.
 - Print the text “Value 2: <value 2 here>”.
 - Change the value of that same variable.
+- Print the text “Value 3: <value 3 here>”.
+- Example output:
+![screenshot](../00_includes/python/varex2.png)
 
 
 
