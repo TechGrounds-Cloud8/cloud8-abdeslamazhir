@@ -29,7 +29,6 @@ Comments are lines that do not get processed as code. This can be used for multi
 
 ### Result
 
-[Code](https://github.com/TechGrounds-Cloud8/cloud8-abdeslamazhir/blob/main/07_Python/PRG 3 Data types and comments 1.py#L1-L26)
 
 ![screenshot](../00_includes/python/dat2.png)
 
@@ -39,6 +38,7 @@ Comments are lines that do not get processed as code. This can be used for multi
 - Create a new script.
 - Use the input() function to get input from the user. Store that input in a variable.
 - Find out what data type the output of input() is. See if it is different for different kinds of input (numbers, words, etc.).
+
 
 
 ### Sources
