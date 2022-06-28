@@ -15,10 +15,22 @@
 - Create a third variable named z. The value of z should be the sum of x and y.
 - Print the value of z.
 
+## Result 
+Script:
+
+    x = 5
+    print (x)
+    y = 20
+    print (y)
+    z = x + y
+    print (z)
+
+
 ![screenshot](../00_includes/python/Schermafbeelding%202022-06-28%20om%2009.29.51.png)
 
 
-
+---
+---
 
 ## Exercise 2
 
@@ -28,6 +40,7 @@
 Example output:
 ![screenshot](../00_includes/python/varex.png)
 
+## Result
 
 Script:
 
@@ -37,11 +50,35 @@ Script:
 
 ![screenshot](../00_includes/python/var2.png)
 
+---
+---
+
 ## Exercise 3
 
+- Create a new script.
+- Create a variable and assign a value to it.
+- Print the text “Value 1: <value 1 here>”.
+- Change the value of that same variable.
+- Print the text “Value 2: <value 2 here>”.
+- Change the value of that same variable.
 
-![screenshot](..)
 
-### Results
 
-### Sources
+
+
+## Results
+
+Script:
+
+    x = "Appie"
+    print ("Value 1 :" + x)
+    x = "mag ipv"
+    print ("Value 2 :" + x)
+    x = "Abdeslam"
+    print ("Value 3 :" + x)
+
+![screenshot](../00_includes/python/var3.png)
+
+## Sources 
+
+[Source](https://www.w3schools.com/python/python_variables.asp)
