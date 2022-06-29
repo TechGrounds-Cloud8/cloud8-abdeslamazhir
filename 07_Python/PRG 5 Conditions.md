@@ -18,12 +18,20 @@ Example output:
 
 ### Results
 
-[Code]()
+[Code](https://github.com/TechGrounds-Cloud8/cloud8-abdeslamazhir/blob/main/07_Python/PRG%20Scripts/PRG%205%20Conditions%201.py)
+
 ![screenshot](../00_includes/python/551.png)
 
 
 ## Exercise 2
 
+- Create a new script.
+- Ask the user of your script for a number. Give them a response based on whether the number is higher than, lower than, or equal to 100.
+Example output:
+
+    ![screenshot](../00_includes/python/52x.png)
+
+- Make the game repeat until the user inputs 100.
 ### Results
 
 
