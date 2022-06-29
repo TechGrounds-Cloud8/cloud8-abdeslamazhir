@@ -23,7 +23,23 @@ Example output:
 
 
 
+
 ### Results
 
 
+
+
+## Exercise 2
+
+
+### Results
+
+
+## Exercise 3
+
+
+### Results
+
 ### Sources
+
+[Loops](https://www.w3schools.com/python/python_while_loops.asp)
