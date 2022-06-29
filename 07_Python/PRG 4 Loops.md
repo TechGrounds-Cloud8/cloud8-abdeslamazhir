@@ -71,7 +71,7 @@ Example output:
 
 ### Results
 
-[]()
+[Code](https://github.com/TechGrounds-Cloud8/cloud8-abdeslamazhir/blob/main/07_Python/PRG%20Scripts/PRG%204%20Loops%203.py)
 
 ![screenshot](../00_includes/python/43.png)
 
