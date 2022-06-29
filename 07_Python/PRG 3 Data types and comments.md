@@ -43,6 +43,7 @@ Comments are lines that do not get processed as code. This can be used for multi
 
 ### Result 
 
+![screenshot](../00_includes/python/dat32.png)
 
 
 
