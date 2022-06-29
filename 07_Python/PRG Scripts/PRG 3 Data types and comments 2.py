@@ -1,8 +1,7 @@
-# The output is for the differint inputs always <class 'str'>
-x = input ( "een getal" )
-print (type (x))  
+# get input from user
 
-# for a number or words the output is <class 'str'>
-x = input ( "123344" )
-print (type (x))
+inputString = input('Enter a string:')
 
+print('The inputted string is:', inputString)
+
+print (type(inputString))
