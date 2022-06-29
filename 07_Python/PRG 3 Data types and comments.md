@@ -27,7 +27,7 @@ Comments are lines that do not get processed as code. This can be used for multi
 - Write a comment above every line of code that tells the reader what is going on in your script.
 
 
-### Result
+### Result 
 
 [Code](https://github.com/TechGrounds-Cloud8/cloud8-abdeslamazhir/blob/main/07_Python/PRG%20Scripts/PRG%203%20Data%20types%20and%20comments%201.py)
 
@@ -39,6 +39,10 @@ Comments are lines that do not get processed as code. This can be used for multi
 - Create a new script.
 - Use the input() function to get input from the user. Store that input in a variable.
 - Find out what data type the output of input() is. See if it is different for different kinds of input (numbers, words, etc.).
+
+
+### Result 
+
 
 
 
