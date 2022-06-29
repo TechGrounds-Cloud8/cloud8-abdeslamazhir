@@ -56,12 +56,24 @@ Example output:
 
 ## Exercise 3
 
+- Create a new script.
+- Copy the array below into your script.
+
+        arr = ["Coen", "Casper", "Joshua", "Abdessamad", "Saskia"]
+
+- Use a for loop to loop over the array. Print every name individually.
+Example output:
+
+![screenshot](../00_includes/python/4x.png)
+
+
+
 
 ### Results
 
 []()
 
-![screenshot]()
+![screenshot](../00_includes/python/43.png)
 
 
 ### Sources
