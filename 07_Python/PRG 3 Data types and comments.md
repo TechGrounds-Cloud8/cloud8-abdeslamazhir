@@ -43,6 +43,7 @@ Comments are lines that do not get processed as code. This can be used for multi
 
 ### Result 
 
+[code](https://github.com/TechGrounds-Cloud8/cloud8-abdeslamazhir/blob/main/07_Python/PRG%20Scripts/PRG%203%20Data%20types%20and%20comments%202.py)
 ![screenshot](../00_includes/python/dat32.png)
 
 
