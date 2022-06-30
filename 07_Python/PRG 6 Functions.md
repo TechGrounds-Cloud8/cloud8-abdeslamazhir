@@ -68,10 +68,11 @@ Besides the built-in functions, you can also write custom functions, or import f
 
 [Code]()
 
-![screenshot](..)
+![screenshot](../00_includes/python/63.png)
 
 
 ### Sources
 
 [Random](https://www.codegrepper.com/code-examples/python/how+to+use+random+in+python)
 
+[Average](https://www.educative.io/answers/how-to-take-the-average-of-a-list-in-python)
