@@ -1,4 +1,9 @@
-import random
+def my_function():
+  print("Hello, world!")
+my_function()
 
-rnd = random.randint(0, 100)
-print(rnd)
+
+def myfunction():
+    name = "Abdeslam"
+    print("Hello, " + name + "!")
+myfunction();

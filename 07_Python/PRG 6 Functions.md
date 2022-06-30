@@ -29,6 +29,12 @@ Besides the built-in functions, you can also write custom functions, or import f
 
 ## Exercise 2
 
+- Create a new script.
+- Write a custom function myfunction() that prints “Hello, world!” to the terminal. Call myfunction.
+- Rewrite your function so that it takes a string as an argument. Then, it should print “Hello, <string>!”.
+
+    Example output:
+![screenshot](../00_includes/python/6xx.png)
 
 
 
@@ -36,7 +42,7 @@ Besides the built-in functions, you can also write custom functions, or import f
 
 [Code]()
 
-![screenshot](..)
+![screenshot](../00_includes/python/62.png)
 
 
 ## Exercise 
