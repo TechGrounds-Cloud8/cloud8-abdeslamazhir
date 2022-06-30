@@ -6,3 +6,10 @@ patat = {
 }
 for x, y in patat.items():
     print(x, ":", y)
+
+
+    # Output:
+First Name : Casper
+Last name : Velzen
+Job title : Learning Coach
+Company : Techgrounds
