@@ -4,6 +4,6 @@ my_function()
 
 
 def myfunction():
-    name = "Abdeslam"
+    name = input ("What is your name:")
     print("Hello, " + name + "!")
 myfunction();
