@@ -40,3 +40,4 @@ Dicts in Python are written using curly brackets {}. You can get values from the
 [csv file](https://github.com/TechGrounds-Cloud8/cloud8-abdeslamazhir/blob/main/PRG82.csv)
 
 ![screenshot](../00_includes/python/822.png)
+![screenshot](../00_includes/python/8.3.png)
