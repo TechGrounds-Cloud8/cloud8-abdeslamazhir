@@ -34,8 +34,9 @@ Dicts in Python are written using curly brackets {}. You can get values from the
 
 
 ### Results
-[Code]()
+[Code](https://github.com/TechGrounds-Cloud8/cloud8-abdeslamazhir/blob/main/07_Python/PRG%20Scripts/PRG%208%20Key-value%20pairs%202.py)
 ![screenshot](../00_includes/python/82.png)
 
-csv file
+[csv file](https://github.com/TechGrounds-Cloud8/cloud8-abdeslamazhir/blob/main/PRG82.csv)
+
 ![screenshot](../00_includes/python/822.png)
