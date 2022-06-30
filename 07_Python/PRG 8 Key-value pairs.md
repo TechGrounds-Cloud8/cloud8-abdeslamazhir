@@ -17,12 +17,12 @@ Dicts in Python are written using curly brackets {}. You can get values from the
 
 
 ### Results
-[Code]()
+[Code](https://github.com/TechGrounds-Cloud8/cloud8-abdeslamazhir/blob/main/07_Python/PRG%20Scripts/PRG%208%20Key-value%20pairs%201.py)
 ![screenshot](../00_includes/python/81.png)
 
 
 
-## Exercise 1
+## Exercise 2
 
 
 - Create a new script.
@@ -35,4 +35,7 @@ Dicts in Python are written using curly brackets {}. You can get values from the
 
 ### Results
 [Code]()
-![screenshot](..)
+![screenshot](../00_includes/python/82.png)
+
+csv file
+![screenshot](../00_includes/python/822.png)
