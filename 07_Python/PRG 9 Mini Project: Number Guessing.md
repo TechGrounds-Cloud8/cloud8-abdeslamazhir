@@ -22,6 +22,6 @@
 ### Results
 
 
-[code]()
+[code](https://github.com/TechGrounds-Cloud8/cloud8-abdeslamazhir/blob/main/07_Python/PRG%20Scripts/PRG%209%20Mini%20Project:%20Number%20Guessing.py)
 ![screenshot](../00_includes/python/game.png)
 
