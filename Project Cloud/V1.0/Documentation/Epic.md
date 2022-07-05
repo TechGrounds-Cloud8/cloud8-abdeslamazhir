@@ -5,17 +5,15 @@
 
 Als team willen wij duidelijk hebben wat de eisen zijn van de applicatie
 
-___
-
 
 
 | Epic    | Exploratie    |
 | :------------: | :--------------:|
 | Beschrijving  | Je hebt al heel wat informatie gekregen. Er staan al wat eisen in dit document genoemd, maar deze lijst is mogelijk incompleet of onduidelijk. Het is belangrijk om alle onduidelijkheden uitgezocht te hebben voordat je groot werk gaat verzetten.|
-| Deliverable  |  Een puntsgewijze omschrijving van alle eisen |
-___
+| Deliverable | Een puntsgewijze omschrijving van alle eisen. |
+
 ### De noodzakelijke eisen
-___
+
 - Alle VM disks moeten encrypted zijn.
 
 - De webserver moet dagelijks gebackupt worden. De backups moeten 7 dagen behouden worden.
@@ -34,7 +32,195 @@ ___
 
 
 ___
-___
+---
 
 
-## Epic 2: 
+## Epic 2: Aannames
+
+Als team willen wij een duidelijk overzicht van de aannames die wij gemaakt hebben.
+
+| Epic| Exploratie|
+| :------------: | :--------------:|
+| Beschrijving   | Je hebt al heel wat informatie gekregen. Mogelijk zijn er vragen die geen van de stakeholders heeft kunnen beantwoorden. Je team moet een overzicht kunnen produceren van de aannames die je daardoor maakt. |
+| Deliverable | Een puntsgewijs overzicht van alle aannames. |
+
+
+
+### De aannames
+
+- Als storage account: Hot Tier
+- Windows of Linux server
+- Een firewall toevoegen
+
+
+---
+---
+
+## Epic 3: Overzicht van de Cloud Infrastructuur 
+
+Als team willen wij een duidelijk overzicht hebben van de Cloud Infrastructuur die de applicatie nodig heeft
+
+| Epic | Exploratie |
+| :------: | :------: |
+| Beschrijving | Je hebt al heel wat informatie gekregen. En al een ontwerp. Alleen in het ontwerp ontbreken nog zaken als IAM/AD. Identificeer deze extra diensten die je nodig zal hebben en maak een overzicht van alle diensten. |
+| Deliverable | Een overzicht van alle diensten die gebruikt gaan worden. |
+
+### Overzicht van de diensten
+
+- Azure AD
+- Key Vault
+- Virtual Network (Vnet)
+- Recovery Service Vault
+- Network Security Group 
+- Storage Account
+- Virtual Machine (VM):
+  - Web Server
+  - Management Server
+- DeploymentScripts
+
+
+
+---
+---
+
+## Epic 4:
+
+tekst
+
+
+|  |  |
+| :------: | :------: |
+|  |  |
+|  |  |
+
+
+### tekst
+
+ tekst
+
+---
+---
+
+ ## Epic 5:
+
+tekst
+
+
+|  |  |
+| :------: | :------: |
+|  |  |
+|  |  |
+
+
+### tekst
+
+ tekst
+
+ ---
+ ---
+
+ ## Epic 6:
+
+tekst
+
+
+|  |  |
+| :------: | :------: |
+|  |  |
+|  |  |
+
+
+### tekst
+
+ tekst
+
+ ---
+ ---
+
+ ## Epic 7:
+
+tekst
+
+
+|  |  |
+| :------: | :------: |
+|  |  |
+|  |  |
+
+
+### tekst
+
+ tekst
+
+ ---
+ ---
+
+ ## Epic 8:
+
+tekst
+
+
+|  |  |
+| :------: | :------: |
+|  |  |
+|  |  |
+
+
+### tekst
+
+ tekst
+
+---
+---
+
+ ## Epic 9:
+
+tekst
+
+
+|  |  |
+| :------: | :------: |
+|  |  |
+|  |  |
+
+
+### tekst
+
+ tekst
+
+---
+---
+
+ ## Epic 10:
+
+tekst
+
+
+|  |  |
+| :------: | :------: |
+|  |  |
+|  |  |
+
+
+### tekst
+
+ tekst
+
+
+---
+---
+
+ ## Epic 11:
+
+tekst
+
+
+|  |  |
+| :------: | :------: |
+|  |  |
+|  |  |
+
+
+### tekst
+
+ tekst
