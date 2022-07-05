@@ -3,7 +3,9 @@
 
 ## Epic 1: Eisen van de applicatie
 
+Als team willen wij duidelijk hebben wat de eisen zijn van de applicatie
 
+___
 
 
 
@@ -31,3 +33,8 @@ ___
 - SSH of RDP verbindingen met de webserver mogen alleen tot stand komen vanuit de admin server.
 
 
+___
+___
+
+
+## Epic 2: 
