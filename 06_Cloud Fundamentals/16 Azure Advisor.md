@@ -54,6 +54,7 @@ Advisor Score is calculated on a scale from 0% - 100% in aggregate and for each 
 
 The Advisor in the Azure Portal
 ![screenshot](../00_includes/azureweek3/2122.png)
+
 ### Sources
 
 https://docs.microsoft.com/en-us/azure/advisor/advisor-overview

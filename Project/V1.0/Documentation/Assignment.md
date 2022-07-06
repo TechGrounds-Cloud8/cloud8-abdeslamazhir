@@ -16,3 +16,5 @@ Jij zal de Infrastructure as Code app bouwen om dit ontwerp naar de cloud te bre
 
 In de uitwerking van de Bicep-app zorg ervoor dat je klein begint en dat je incrementeel features toevoegt. Zorg ervoor dat je altijd een commit / branch heb waar je op terug kan vallen met een werkende versie van je applicatie. Je kan met Git Tag commits labels geven die makkelijk in GitHub terug te vinden zijn. Mocht je code compleet zijn met de bovengenoemde eisen, dan kan je de tag ‘v1.0’ gebruiken.
 
+![screenshot](../../../00_includes/Project%20/dia.png)
+
