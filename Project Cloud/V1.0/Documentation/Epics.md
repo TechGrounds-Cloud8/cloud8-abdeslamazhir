@@ -14,7 +14,9 @@ Als team willen wij duidelijk hebben wat de eisen zijn van de applicatie
 
 ### De noodzakelijke eisen
 
-- Alle VM disks moeten encrypted zijn.
+- Gebruik maken van Azure Bicep
+
+- VM disks moeten encrypted zijn.
 
 - De webserver moet dagelijks gebackupt worden. De backups moeten 7 dagen behouden worden.
 
@@ -24,11 +26,12 @@ Als team willen wij duidelijk hebben wat de eisen zijn van de applicatie
 
 - De admin/management server moet alleen bereikbaar zijn van vertrouwde locaties (office/admin’s thuis)
 
-- De volgende IP ranges worden gebruikt: 10.10.10.0/24 & 10.20.20.0/24
+- SSH of RDP verbindingen met de webserver mogen alleen tot stand komen vanuit de admin server.
+
+- IP ranges: 10.10.10.0/24 & 10.20.20.0/24
 
 - Alle subnets moeten beschermd worden door een firewall op subnet niveau.
 
-- SSH of RDP verbindingen met de webserver mogen alleen tot stand komen vanuit de admin server.
 
 
 ___
@@ -49,8 +52,9 @@ Als team willen wij een duidelijk overzicht van de aannames die wij gemaakt hebb
 ### De aannames
 
 - Als storage account: Hot Tier
-- Windows of Linux server
-- Een firewall toevoegen
+- VM voor de Web Server een Linux
+- VM voor de Management Server een Windows
+- Een firewall toevoegen 
 
 
 ---
@@ -67,16 +71,18 @@ Als team willen wij een duidelijk overzicht hebben van de Cloud Infrastructuur d
 
 ### Overzicht van de diensten
 
+Subscription
 - Azure AD
 - Key Vault
-- Virtual Network (Vnet)
+- Azure Virtual Network (Vnet)
 - Recovery Service Vault
 - Network Security Group 
-- Storage Account
+
 - Virtual Machine (VM):
   - Web Server
   - Management Server
-- DeploymentScripts
+- Storage Account
+- PostDeploymentScripts
 
 
 
@@ -85,31 +91,31 @@ Als team willen wij een duidelijk overzicht hebben van de Cloud Infrastructuur d
 
 ## Epic 4:
 
-tekst
+Als klant wil ik een werkende applicatie hebben waarmee ik een veilig netwerk kan deployen
 
 
-|  |  |
+| Epic | v1.0 |
 | :------: | :------: |
-|  |  |
-|  |  |
+| Beschrijving | De applicatie moet een netwerk opbouwen dat aan alle eisen voldoet. Een voorbeeld van een genoemde eis is dat alleen verkeer van trusted sources de management server mag benaderen. |
+| Deliverable | IaC-code voor het netwerk en alle onderdelen |
 
 
 ### tekst
 
- tekst
+tekst
 
 ---
 ---
 
  ## Epic 5:
 
-tekst
+Als klant wil ik een werkende applicatie hebben waarmee ik een werkende webserver kan deployen
 
 
-|  |  |
+| Epic | v1.0 |
 | :------: | :------: |
-|  |  |
-|  |  |
+| Beschrijving |  |
+| Deliverable |  |
 
 
 ### tekst
@@ -121,13 +127,13 @@ tekst
 
  ## Epic 6:
 
-tekst
+Als klant
 
 
-|  |  |
+| Epic | v1.0 |
 | :------: | :------: |
-|  |  |
-|  |  |
+| Beschrijving |  |
+| Deliverable |  |
 
 
 ### tekst
@@ -142,10 +148,10 @@ tekst
 tekst
 
 
-|  |  |
+| Epic | v1.0 |
 | :------: | :------: |
-|  |  |
-|  |  |
+| Beschrijving |  |
+| Deliverable |  |
 
 
 ### tekst
@@ -160,10 +166,10 @@ tekst
 tekst
 
 
-|  |  |
+| Epic | v1.0 |
 | :------: | :------: |
-|  |  |
-|  |  |
+| Beschrijving |  |
+| Deliverable |  |
 
 
 ### tekst
@@ -178,10 +184,10 @@ tekst
 tekst
 
 
-|  |  |
+| Epic | v1.0 |
 | :------: | :------: |
-|  |  |
-|  |  |
+| Beschrijving |  |
+| Deliverable |  |
 
 
 ### tekst
@@ -196,10 +202,10 @@ tekst
 tekst
 
 
-|  |  |
+| Epic | v1.0 |
 | :------: | :------: |
-|  |  |
-|  |  |
+| Beschrijving |  |
+| Deliverable |  |
 
 
 ### tekst
@@ -215,10 +221,10 @@ tekst
 tekst
 
 
-|  |  |
+| Epic | v1.0 |
 | :------: | :------: |
-|  |  |
-|  |  |
+| Beschrijving |  |
+| Deliverable |  |
 
 
 ### tekst
