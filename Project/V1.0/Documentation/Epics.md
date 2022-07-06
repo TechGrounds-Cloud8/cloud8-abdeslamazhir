@@ -66,17 +66,17 @@ Als team willen wij een duidelijk overzicht hebben van de Cloud Infrastructuur d
 | Beschrijving | Je hebt al heel wat informatie gekregen. En al een ontwerp. Alleen in het ontwerp ontbreken nog zaken als IAM/AD. Identificeer deze extra diensten die je nodig zal hebben en maak een overzicht van alle diensten. |
 | Deliverable | Een overzicht van alle diensten die gebruikt gaan worden. |
 
-### Overzicht van de diensten
+### Overzicht van de diensten voor v1.0
 
 Subscription
-- Azure AD
+
 - Key Vault
-- Azure Virtual Network (Vnet)
+- 2 Virtual Networks (Vnet) gepeered met twee subnetten.
 - Recovery Service Vault
 - Network Security Group 
 
-- Virtual Machine (VM):
-  - Web Server
+- 2 Virtual Machines (VM):
+  - Web Server 
   - Management Server
 - Storage Account
 - PostDeploymentScripts

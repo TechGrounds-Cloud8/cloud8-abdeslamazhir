@@ -18,7 +18,7 @@ while running:
 
   else:
     print('Good job!')
-    print(f'It only took you {num_of_guesses} tries')
+    print('It only took you {num_of_guesses} tries')
     running = False # Exits out of while loop
     
 print('Thanks for playing!')

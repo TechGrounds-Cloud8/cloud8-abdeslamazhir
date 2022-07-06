@@ -1,5 +1,6 @@
 ## Opdracht
 
+[PRO-01 Cloud8](https://docs.google.com/document/d/1e0fycvpfDFnyWut9eQjCJObJcVHotpsltDaqAEPFNJ0/edit#)
 Je hebt een opdracht gekregen om een bedrijf te helpen bij de transitie naar de cloud. Het bedrijf heeft zijn infrastructuur laten analyseren door een eerder team. Er is een diagram gemaakt naar aanleiding van de huidige situatie. Je kan deze diagrammen vinden in de bijlagen. 
 
 Jij zal de Infrastructure as Code app bouwen om dit ontwerp naar de cloud te brengen. Het is de bedoeling dat je voor deze app Bicep van Azure gebruikt. De volgende eisen zijn aangegeven als noodzakelijk:
