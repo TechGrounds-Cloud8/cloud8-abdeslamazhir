@@ -32,7 +32,6 @@ Als team willen wij duidelijk hebben wat de eisen zijn van de applicatie
 
 - Alle subnets moeten beschermd worden door een firewall op subnet niveau.
 
-![screenshot](..)
 ---
 
 
