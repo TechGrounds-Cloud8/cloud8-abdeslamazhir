@@ -149,10 +149,7 @@ Als klant wil ik een opslagoplossing hebben waarin bootstrap/post-deployment scr
 | Epic | v1.0 |
 | :------: | :------: |
 | Beschrijving | Er moet een locatie beschikbaar zijn waar bootstrap scripts beschikbaar worden. Deze script moeten niet publiekelijk toegankelijk zijn. |
-| Deliverable | IaC-code voor een opslagoplossing voor scripts
-
- |
-
+| Deliverable | IaC-code voor een opslagoplossing voor scripts|
 
 ### tekst
 
