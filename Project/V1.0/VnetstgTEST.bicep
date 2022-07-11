@@ -3,8 +3,8 @@
 param storageName string 
 
 resource virtualNetwork 'Microsoft.Network/virtualNetworks@2019-11-01' = {
-  name: 'name'
-  location: location
+  name: 'examplevnet'
+  location: resourceGroup().location
   properties: {
     addressSpace: {
       addressPrefixes: [
@@ -28,6 +28,11 @@ resource virtualNetwork 'Microsoft.Network/virtualNetworks@2019-11-01' = {
   }
 }
 
-
-
-
+resource exampleStorage 'Microsoft.Storage/storageAccounts@2021-09-01' = {
+  name: storageName
+  location: 'westeurope'
+  sku: {
+    name:  'Standard_LRS'
+  }
+  kind:  'StorageV2'
+}
