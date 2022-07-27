@@ -8,7 +8,7 @@ param adminUsername string = 'aazhir'
 
 @description('Password for the Virtual Machine.')
 @minLength(12)
-param adminPassword string = 'Cl0ud@tech'
+param adminPassword string = 'Cl0ud@techgrounds'
 
 
 @description('The Windows version for the VM. This will pick a fully patched image of this given Windows version.')

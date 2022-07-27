@@ -1,17 +1,17 @@
 
 resource vnet1 'Microsoft.Network/virtualNetworks@2020-05-01' existing = {
-  name: 'management-prd-vnet'
+  name: 'managementvnet'
 }
 
 resource vnet2 'Microsoft.Network/virtualNetworks@2020-06-01' existing = {
-  name: 'app-prod-vnet'
+  name: 'WebserverVNet'
 }
 
 resource VnetPeering1 'Microsoft.Network/virtualNetworks/virtualNetworkPeerings@2020-05-01' = {
   parent: vnet1
   name: '${vnet1.name}-${vnet2.name}'
   properties: {
-    allowVirtualNetworkAccess: trueß
+    allowVirtualNetworkAccess: true
     allowForwardedTraffic: false
     allowGatewayTransit: false
     useRemoteGateways: false
