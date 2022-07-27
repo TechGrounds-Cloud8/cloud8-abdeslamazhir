@@ -1,0 +1,67 @@
+{
+    "name": "vmlinux",
+    "id": "/subscriptions/1c1ca0c4-ffde-4c6a-9138-711e0ce88017/resourceGroups/testappie/providers/Microsoft.Compute/virtualMachines/vmlinux",
+    "type": "Microsoft.Compute/virtualMachines",
+    "location": "germanywestcentral",
+    "properties": {
+        "vmId": "09868b19-1d36-42c6-b38b-a856a6f5d327",
+        "hardwareProfile": {
+            "vmSize": "Standard_B1ls"
+        },
+        "storageProfile": {
+            "imageReference": {
+                "publisher": "canonical",
+                "offer": "0001-com-ubuntu-server-focal",
+                "sku": "20_04-lts-gen2",
+                "version": "latest"
+            },
+            "osDisk": {
+                "osType": "Linux",
+                "name": "vmlinux_OsDisk_1_addc79f15f5543048bdff45b052dd174",
+                "createOption": "FromImage",
+                "caching": "ReadWrite",
+                "managedDisk": {
+                    "storageAccountType": "Premium_LRS",
+                    "id": "/subscriptions/1c1ca0c4-ffde-4c6a-9138-711e0ce88017/resourceGroups/testappie/providers/Microsoft.Compute/disks/vmlinux_OsDisk_1_addc79f15f5543048bdff45b052dd174"
+                },
+                "diskSizeGB": 30
+            },
+            "dataDisks": []
+        },
+        "osProfile": {
+            "computerName": "vmlinux",
+            "adminUsername": "azureuser",
+            "linuxConfiguration": {
+                "disablePasswordAuthentication": true,
+                "ssh": {
+                    "publicKeys": [
+                        {
+                            "path": "/home/azureuser/.ssh/authorized_keys",
+                            "keyData": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCjTENlztvtqOySVWZAY1BcjGP5bL3O3sOkxcJ12N0KqfLbCi9K7Q3AzPr69z1moMuMjHayxXcd6AHcO0FRMcPNGHTrfYXqGZqG1BYGlGH1GEI7/fAHtusJp09neoBJF83W8LE9BguqbqPS4qZzaRmKdEFPzpvziOwD7jyxoHmE39Vx37x0+XjHpnPdd3UMNuKOyJw4GS8Izmv0s01hKO5G6Ux2kJZx3ETJMe3QN1glzdum6l8ekKb6pez90Cu9Az9Uyt90nOT6jD2OeBzsxXzDVb5Y3dwI6hHmmjXIWzSIcpNLBX3aMintEPvRQEj0D18HdO/ax6Zdb/tUbzBEctBt7FPzoIwDURNnZENi0RQAUzUX5y/R5CyIAxcRAHnNgFsrgWupM8jSF8CMsX/wa99A1gUKmi9SgQnvepkjG9b4lkowAY65pl+b7MPT32Re+tK4jw/iGhjF2UaUcNU6cpIIn2dGSLqmxvXv0FAMKGUd3ppDErdEIxjtZYTxGljlz10= generated-by-azure"
+                        }
+                    ]
+                }
+            },
+            "secrets": []
+        },
+        "networkProfile": {
+            "networkInterfaces": [
+                {
+                    "id": "/subscriptions/1c1ca0c4-ffde-4c6a-9138-711e0ce88017/resourceGroups/testappie/providers/Microsoft.Network/networkInterfaces/vmlinux923_z1",
+                    "properties": {
+                        "deleteOption": "Detach"
+                    }
+                }
+            ]
+        },
+        "diagnosticsProfile": {
+            "bootDiagnostics": {
+                "enabled": true
+            }
+        },
+        "provisioningState": "Succeeded"
+    },
+    "zones": [
+        "1"
+    ]
+}
