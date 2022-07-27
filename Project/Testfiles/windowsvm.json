@@ -1,0 +1,60 @@
+{
+    "name": "windmachine",
+    "id": "/subscriptions/1c1ca0c4-ffde-4c6a-9138-711e0ce88017/resourceGroups/newwinnnn/providers/Microsoft.Compute/virtualMachines/windmachine",
+    "type": "Microsoft.Compute/virtualMachines",
+    "location": "germanywestcentral",
+    "properties": {
+        "vmId": "7cc163b1-4cdd-4f49-bd2c-4052771857d2",
+        "hardwareProfile": {
+            "vmSize": "Standard_DS1_v2"
+        },
+        "storageProfile": {
+            "imageReference": {
+                "publisher": "MicrosoftWindowsServer",
+                "offer": "WindowsServer",
+                "sku": "2019-datacenter-gensecond",
+                "version": "latest"
+            },
+            "osDisk": {
+                "osType": "Windows",
+                "name": "windmachine_OsDisk_1_e97036bbfec14111a4e65fb56f417108",
+                "createOption": "FromImage",
+                "caching": "ReadWrite",
+                "managedDisk": {
+                    "storageAccountType": "Premium_LRS",
+                    "id": "/subscriptions/1c1ca0c4-ffde-4c6a-9138-711e0ce88017/resourceGroups/newwinnnn/providers/Microsoft.Compute/disks/windmachine_OsDisk_1_e97036bbfec14111a4e65fb56f417108"
+                },
+                "diskSizeGB": 127
+            },
+            "dataDisks": []
+        },
+        "osProfile": {
+            "computerName": "windmachine",
+            "adminUsername": "ajajjshshs",
+            "windowsConfiguration": {
+                "provisionVMAgent": true,
+                "enableAutomaticUpdates": true
+            },
+            "secrets": []
+        },
+        "networkProfile": {
+            "networkInterfaces": [
+                {
+                    "id": "/subscriptions/1c1ca0c4-ffde-4c6a-9138-711e0ce88017/resourceGroups/newwinnnn/providers/Microsoft.Network/networkInterfaces/windmachine499_z1",
+                    "properties": {
+                        "deleteOption": "Detach"
+                    }
+                }
+            ]
+        },
+        "diagnosticsProfile": {
+            "bootDiagnostics": {
+                "enabled": true
+            }
+        },
+        "provisioningState": "Succeeded"
+    },
+    "zones": [
+        "1"
+    ]
+}
